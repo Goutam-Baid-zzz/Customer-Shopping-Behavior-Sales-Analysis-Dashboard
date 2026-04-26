@@ -47,17 +47,17 @@ The dashboard converts raw sales data into **actionable insights** for better bu
 
 ## 📁 Dataset Overview
 
-The dataset includes:
+The dataset captures customer shopping behavior, product details, and transaction-level information:
 
 | Category | Features |
 |--------|--------|
-| **Customer** | customer_id, gender, subscription_status |
+| **Customer** | customer_id, age, gender, subscription_status |
 | **Sales** | purchase_amount, item_purchased |
 | **Product** | category |
 | **Behavior** | frequency_of_purchases |
-| **Location** | region/location |
+| **Time** | season |
+| **Location** | location |
 | **Ratings** | review_rating |
-
 ---
 
 ## 🛠️ Tech Stack
