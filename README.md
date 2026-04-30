@@ -228,7 +228,3 @@ statistical_reports/
 | Notebooks | Jupyter |
 
 ---
-
-<p align="center">
-  Built with ❤️ by the Data Analytics Team · 2026
-</p>
