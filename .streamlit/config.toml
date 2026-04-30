@@ -1,0 +1,60 @@
+# ============================================================================
+# Streamlit Configuration File
+# Location: .streamlit/config.toml
+# Purpose: Customizes Streamlit app appearance and behavior
+# ============================================================================
+
+[theme]
+# Color scheme
+primaryColor = "#1f77b4"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f0f2f6"
+textColor = "#31333F"
+
+# Font options
+font = "sans serif"
+
+# Light/Dark mode
+base = "light"
+
+[client]
+# Show detailed error messages
+showErrorDetails = true
+showWarnings = true
+
+# Prevent toolbar autohide
+toolbarMode = "auto"
+
+[logger]
+# Logging level (debug, info, warning, error)
+level = "info"
+
+[server]
+# Server settings
+port = 8501
+headless = false
+
+# Enable CORS for development
+enableCORS = true
+
+# Allow running from external addresses
+enableXsrfProtection = true
+
+# Increase upload limit
+maxUploadSize = 200
+
+# Maximum message size (in MB)
+maxMessageSize = 200
+
+[deprecation]
+# Show deprecation warnings
+showPyplotGlobalUse = false
+showfileUploaderEncoding = false
+
+[runner]
+# Optimization
+magicEnabled = true
+
+[webSocketConf]
+# WebSocket settings for smooth interactivity
+enabled = true
