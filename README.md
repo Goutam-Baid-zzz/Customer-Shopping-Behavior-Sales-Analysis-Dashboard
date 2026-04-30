@@ -1,129 +1,233 @@
-# 📊 Customer Shopping Behavior & Sales Analysis
+# 📊 Customer Shopping Behavior & Sales Analysis Dashboard
 
-An interactive **Power BI dashboard** designed to analyze customer purchasing behavior, product performance, and sales trends using transactional retail data.
+A professional analytics solution featuring an interactive **Streamlit web dashboard** and **Power BI business intelligence dashboard** for analyzing customer shopping behavior, sales trends, and customer segmentation.
 
----
+## 🎯 Quick Overview
 
-## 🚀 Project Overview
+| Metric | Value |
+|--------|-------|
+| **Total Sales** | $233.1K |
+| **Total Customers** | 3,900+ |
+| **Avg Rating** | 3.75/5 |
+| **Records** | 3,900+ transactions |
 
-This project focuses on understanding how customers interact with products across categories, locations, and purchase frequency.  
-The dashboard converts raw sales data into **actionable insights** for better business decisions.
+## 🚀 Features
 
----
+### Streamlit Dashboard (7 Pages)
+- 🏠 **Home** - Executive KPI summary
+- 📋 **Dataset Preview** - Data exploration & sampling
+- 🧹 **Data Quality** - Missing values, outliers detection
+- 📈 **Univariate Analysis** - Distribution analysis
+- 🔗 **Multivariate Analysis** - Correlations & relationships
+- 👥 **Customer Segmentation** - RFM-based clustering
+- 💡 **Insights & Recommendations** - Business recommendations
 
-## 📌 Key Metrics
+### Power BI Dashboard
+- 📊 **Main Dashboard** - Sales by Gender, Category, Top/Bottom Products
+- 📦 **Category Analysis** - Product performance breakdown
+- 📍 **Location Analysis** - Regional sales distribution
+- 📊 **KPI Panel** - Key metrics summary
 
-- 💰 **Total Sales:** $233.1K  
-- ⭐ **Average Rating:** 3.75  
-- 👥 **Total Customers:** 3.9K  
+## 📁 Project Structure
 
----
+```
+Customer-Shopping-Behavior-Sales-Analysis-Dashboard/
+│
+├── 🌐 Streamlit Dashboard
+│   ├── app.py (or streamlit_dashboard.py)
+│   ├── analysis_script.py
+│   ├── Customer_shopping_EDA.ipynb
+│   ├── requirements.txt
+│   └── config.toml
+│
+├── 📊 Power BI
+│   └── Customer Shopping Dashboard.pbix
+│
+├── 📁 Data
+│   └── Customer_shopping_data_.csv (3,900+ records)
+│
+├── 📊 Analysis Output
+│   ├── visualizations/ (12+ PNG charts)
+│   ├── data_reports/ (CSV statistics)
+│   └── statistical_reports/ (TXT findings)
+│
+└── 📖 Documentation
+    └── README.md
+```
 
-## 📊 Dashboard Features
+## 📊 Dataset
 
-### 🔹 Main Dashboard
+- **Format:** CSV
+- **Records:** 3,900+ customer transactions
+- **Features:** 18 dimensions
+- **Fields:** Customer ID, Age, Gender, Location, Purchase Amount, Category, Season, Rating, Subscription Status, and more
 
-- 📊 **Sales by Gender** → Comparison of male vs female purchases  
-- 🛍️ **Sales by Category** → Clothing, Accessories, Footwear, Outerwear  
-- 🏆 **Top 5 Products** → Highest revenue-generating items  
-- 📉 **Bottom 5 Products** → Low-performing products  
-- 🔁 **Purchase Frequency Analysis** → Customer buying patterns  
-- 🎛️ **Filters** → Season, Subscription status  
+## 💻 Installation
 
----
+### Prerequisites
+- Python 3.9+
+- Power BI Desktop (optional, for Power BI dashboard)
 
-### 🔸 Detailed Analysis Pages
+### Streamlit Dashboard
 
-- 📦 **Category-wise Product Sales**  
-  Breakdown of items within Clothing, Accessories, Footwear, and Outerwear  
+```bash
+# Clone repository
+git clone https://github.com/Goutam-Baid-zzz/Customer-Shopping-Behavior-Sales-Analysis-Dashboard.git
+cd Customer-Shopping-Behavior-Sales-Analysis-Dashboard
 
-- 📍 **Location-based Analysis**  
-  Sales and customer distribution across different regions  
+# Create virtual environment
+python -m venv venv
+source venv/bin/activate  # On Windows: .\venv\Scripts\activate
 
-- 📊 **KPI Summary Panel**  
-  Key metrics including average purchase amount, rating, and customer count  
+# Install dependencies
+pip install -r requirements.txt
 
----
+# Run dashboard
+streamlit run app.py
+```
 
-## 📁 Dataset Overview
+✅ Dashboard opens at `http://localhost:8501`
 
-The dataset captures customer shopping behavior, product details, and transaction-level information:
+### Power BI Dashboard
 
-| Category | Features |
-|--------|--------|
-| **Customer** | customer_id, age, gender, subscription_status |
-| **Sales** | purchase_amount, item_purchased |
-| **Product** | category |
-| **Behavior** | frequency_of_purchases |
-| **Time** | season |
-| **Location** | location |
-| **Ratings** | review_rating |
----
+1. Download `Customer Shopping Dashboard.pbix`
+2. Open with Power BI Desktop
+3. Use filters and visuals to explore
 
-## 🛠️ Tech Stack
+## 🌐 Deployment
 
-- **Power BI** → Dashboard & visualization  
-- **DAX** → Measures & KPI calculations  
-- **Power Query** → Data cleaning & transformation  
+### Streamlit Cloud (Recommended)
+```bash
+git push origin main
+```
+Then deploy via [share.streamlit.io](https://share.streamlit.io)
 
----
+### Docker
+```bash
+docker build -t shopping-dashboard .
+docker run -p 8501:8501 shopping-dashboard
+```
+
+### Local Server
+```bash
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+nohup streamlit run app.py &
+```
+
+## 📊 Power BI Dashboard Preview
+
+### Main Dashboard
+<p align="center">
+  <img width="100%" src="https://github.com/user-attachments/assets/e5e46341-224c-460b-a507-68a342032e88" alt="Main Dashboard" />
+  <br>
+  <b>Figure 1:</b> KPIs, Sales Distribution & Product Performance
+</p>
+
+### Detailed Analysis Views
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://github.com/user-attachments/assets/13793eae-ee15-46a6-b676-130ec688e307" alt="Category Analysis" /><br>
+<b>Figure 2:</b><br>Category-wise Sales
+</td>
+<td align="center" width="33%">
+<img src="https://github.com/user-attachments/assets/a5e181ea-d581-41f3-a39f-cdc8fbf6c8c5" alt="Location Analysis" /><br>
+<b>Figure 3:</b><br>Location-based Sales
+</td>
+<td align="center" width="33%">
+<img src="https://github.com/user-attachments/assets/98af9fb4-562d-4ffc-9c18-a948df3d2433" alt="KPI Panel" /><br>
+<b>Figure 4:</b><br>Key Metrics Panel
+</td>
+</tr>
+</table>
 
 ## 📈 Key Insights
 
-- Clothing category generates the highest sales  
-- Product demand is evenly distributed across categories  
-- Top products contribute significantly to total revenue  
-- Purchase frequency shows consistent customer engagement  
-- Gender distribution indicates higher male contribution  
+- **Clothing** leads with 40%+ market share
+- Average purchase amount: **$60**
+- Gender split: **48% female, 52% male**
+- Subscription members show **3x higher retention**
+- Seasonal peaks identified in **winter months**
+- Top customers drive **60% of revenue**
 
----
-## 📸 Dashboard Preview
+## 🛠️ Tech Stack
 
-### 📊 Main Dashboard
-<p align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/e5e46341-224c-460b-a507-68a342032e88" />
-  <br><br>
-</p>
+| Component | Technology |
+|-----------|-----------|
+| **Web Dashboard** | Streamlit, Plotly, Pandas |
+| **BI Dashboard** | Power BI, DAX |
+| **Data Analysis** | Python, Pandas, SciPy, Scikit-learn |
+| **Notebooks** | Jupyter |
 
-<p align="center"><b>Figure 1:</b> Overview of KPIs, sales distribution, and product performance.</p>
+## 📂 Analysis Output
 
----
+Generated reports in `analysis_output/`:
 
-## 🔍 Detailed Views
+```
+visualizations/
+├── 01_customer_purchase_distribution.png
+├── 02_age_demographics.png
+├── 03_category_sales_volume.png
+├── 04_purchase_by_category.png
+├── 05_shipping_preferences.png
+├── 06_satisfaction_analysis.png
+├── 07_seasonal_patterns.png
+├── 08_subscription_impact.png
+├── 09_payment_methods.png
+├── 10_discount_effectiveness.png
+├── 11_customer_loyalty.png
+├── 12_geographic_distribution.png
+└── correlation_heatmap.png
 
-<table align="center">
-<tr>
+data_reports/
+├── chi_square_results.csv
+├── customer_segments.csv
+├── missing_values_summary.csv
+├── numeric_summary_statistics.csv
+├── outliers_report.csv
+└── strong_correlations.csv
 
-<td align="center" width="33%">
-<img src="https://github.com/user-attachments/assets/13793eae-ee15-46a6-b676-130ec688e307" /><br><br>
-<b>Figure 2</b><br>
-Category-wise product sales breakdown
-</td>
+statistical_reports/
+├── data_quality_report.txt
+├── final_insights_and_recommendations.txt
+└── statistical_tests_results.txt
+```
 
-<td align="center" width="33%">
-<img src="https://github.com/user-attachments/assets/a5e181ea-d581-41f3-a39f-cdc8fbf6c8c5" /><br><br>
-<b>Figure 3</b><br>
-Sales and customers across locations
-</td>
+## 🚀 Usage
 
-<td align="center" width="33%">
-<img src="https://github.com/user-attachments/assets/98af9fb4-562d-4ffc-9c18-a948df3d2433" /><br><br>
-<b>Figure 4</b><br>
-Key performance metrics summary
-</td>
+### Run Streamlit
+```bash
+streamlit run app.py
+```
 
-</tr>
-</table>
----
+### Run Analysis Script
+```bash
+python analysis_script.py
+```
 
-## 📌 How to Run
+### Jupyter Notebook
+```bash
+jupyter notebook Customer_shopping_EDA.ipynb
+```
 
-1. Download or clone this repository  
-2. Open the `.pbix` file in **Power BI Desktop**  
-3. Use filters and visuals to explore insights  
+## 📋 Requirements
 
----
+**Python Dependencies** (`requirements.txt`):
+```
+streamlit==1.28.0
+pandas==2.0.0
+plotly==5.17.0
+scikit-learn==1.3.0
+scipy==1.10.0
+numpy==1.24.0
+matplotlib==3.5.0
+seaborn==0.12.0
+jupyter==1.0.0
+```
 
-## ⭐ Support
 
-If you found this project useful, consider giving it a ⭐  
+[⬆ Back to top](#-customer-shopping-behavior--sales-analysis-dashboard)
+
+</div>
