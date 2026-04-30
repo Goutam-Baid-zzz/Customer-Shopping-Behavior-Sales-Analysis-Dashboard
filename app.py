@@ -788,7 +788,16 @@ def page_data_quality(df, analysis_data, images):
 
         if 'outliers' in analysis_data:
             section("Pre-computed Outliers Report")
-            st.dataframe(analysis_data['outliers'], use_container_width=True)
+            out_display = analysis_data['outliers'].copy()
+            if 'iqr_bounds' in out_display.columns:
+                import re
+                def clean_bounds(val):
+                    nums = re.findall(r'[-+]?\d*\.?\d+', str(val))
+                    if len(nums) >= 2:
+                        return f"({float(nums[0]):.2f}, {float(nums[1]):.2f})"
+                    return str(val)
+                out_display['iqr_bounds'] = out_display['iqr_bounds'].apply(clean_bounds)
+            st.dataframe(out_display, use_container_width=True)
 
     with tab3:
         section("Data Quality Report")
@@ -1176,6 +1185,16 @@ def page_segmentation(df, analysis_data):
 
     if 'segments' in analysis_data and not analysis_data['segments'].empty:
         seg_df = analysis_data['segments'].copy()
+
+        # Merge purchase amounts from main df if missing
+        if 'Purchase Amount (USD)' not in seg_df.columns:
+            if 'Customer ID' in seg_df.columns and 'Customer ID' in df.columns:
+                purchase_map = df.drop_duplicates('Customer ID').set_index('Customer ID')['Purchase Amount (USD)']
+                seg_df['Purchase Amount (USD)'] = seg_df['Customer ID'].map(purchase_map)
+            else:
+                # fallback: assign overall mean so nothing crashes
+                seg_df['Purchase Amount (USD)'] = df['Purchase Amount (USD)'].mean()
+
         if 'freq_per_year' in seg_df.columns:
             seg_df['freq_category'] = pd.cut(
                 seg_df['freq_per_year'], bins=[-1, 1, 6, 12, 999],
