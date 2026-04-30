@@ -792,6 +792,9 @@ def page_data_quality(df, analysis_data, images):
             if 'iqr_bounds' in out_display.columns:
                 import re
                 def clean_bounds(val):
+                    nums = re.findall(r'np\.float64\(([-+]?\d*\.?\d+)\)', str(val))
+                    if len(nums) >= 2:
+                        return f"({float(nums[0]):.2f}, {float(nums[1]):.2f})"
                     nums = re.findall(r'[-+]?\d*\.?\d+', str(val))
                     if len(nums) >= 2:
                         return f"({float(nums[0]):.2f}, {float(nums[1]):.2f})"
@@ -1189,11 +1192,20 @@ def page_segmentation(df, analysis_data):
         # Merge purchase amounts from main df if missing
         if 'Purchase Amount (USD)' not in seg_df.columns:
             if 'Customer ID' in seg_df.columns and 'Customer ID' in df.columns:
-                purchase_map = df.drop_duplicates('Customer ID').set_index('Customer ID')['Purchase Amount (USD)']
+                purchase_map = (df.drop_duplicates('Customer ID')
+                                  .set_index('Customer ID')['Purchase Amount (USD)'])
                 seg_df['Purchase Amount (USD)'] = seg_df['Customer ID'].map(purchase_map)
-            else:
-                # fallback: assign overall mean so nothing crashes
-                seg_df['Purchase Amount (USD)'] = df['Purchase Amount (USD)'].mean()
+            
+            # If still missing or all NaN after map, assign from df by index position
+            if ('Purchase Amount (USD)' not in seg_df.columns or 
+                    seg_df['Purchase Amount (USD)'].isna().all()):
+                seg_df = seg_df.reset_index(drop=True)
+                seg_df['Purchase Amount (USD)'] = (
+                    df['Purchase Amount (USD)']
+                    .reset_index(drop=True)
+                    .reindex(seg_df.index)
+                    .fillna(df['Purchase Amount (USD)'].mean())
+                )
 
         if 'freq_per_year' in seg_df.columns:
             seg_df['freq_category'] = pd.cut(
