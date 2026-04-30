@@ -1,0 +1,3901 @@
+Customer ID,freq_per_year,spend_bucket,segment
+1,0.0,Medium,Very Low
+2,0.0,High,Very Low
+3,52.0,High,High
+4,52.0,Very High,High
+5,0.0,Medium,Very Low
+6,52.0,Low,High
+7,4.0,Very High,Low
+8,52.0,Low,High
+9,0.0,Very High,Very Low
+10,4.0,Low,Low
+11,0.0,Low,Very Low
+12,0.0,High,Very Low
+13,0.0,High,Very Low
+14,52.0,Medium,High
+15,52.0,Medium,High
+16,12.0,High,Medium
+17,0.0,Low,Very Low
+18,4.0,Low,Low
+19,52.0,Medium,High
+20,0.0,Very High,Very Low
+21,0.0,Medium,Very Low
+22,4.0,High,Low
+23,0.0,Low,Very Low
+24,52.0,Very High,High
+25,52.0,Low,High
+26,0.0,Low,Very Low
+27,0.0,Low,Very Low
+28,0.0,Medium,Very Low
+29,0.0,Very High,Very Low
+30,52.0,Medium,High
+31,12.0,Low,Medium
+32,12.0,High,Medium
+33,0.0,High,Very Low
+34,4.0,Low,Low
+35,4.0,Very High,Low
+36,0.0,Low,Very Low
+37,0.0,High,Very Low
+38,52.0,Medium,High
+39,0.0,Low,Very Low
+40,12.0,Medium,Medium
+41,4.0,High,Low
+42,0.0,Low,Very Low
+43,0.0,Very High,Very Low
+44,0.0,High,Very Low
+45,52.0,Medium,High
+46,0.0,Low,Very Low
+47,4.0,Medium,Low
+48,52.0,Medium,High
+49,12.0,Medium,Medium
+50,0.0,Low,Very Low
+51,0.0,Low,Very Low
+52,4.0,Medium,Low
+53,52.0,Low,High
+54,52.0,Low,High
+55,0.0,Very High,Very Low
+56,0.0,Low,Very Low
+57,52.0,High,High
+58,0.0,High,Very Low
+59,12.0,Medium,Medium
+60,52.0,High,High
+61,52.0,Low,High
+62,0.0,High,Very Low
+63,0.0,Low,Very Low
+64,52.0,High,High
+65,0.0,Very High,Very Low
+66,0.0,Low,Very Low
+67,0.0,Very High,Very Low
+68,12.0,Low,Medium
+69,0.0,Medium,Very Low
+70,52.0,High,High
+71,0.0,Low,Very Low
+72,0.0,Medium,Very Low
+73,0.0,Low,Very Low
+74,0.0,Very High,Very Low
+75,12.0,Medium,Medium
+76,0.0,Very High,Very Low
+77,12.0,Medium,Medium
+78,0.0,Medium,Very Low
+79,0.0,Very High,Very Low
+80,0.0,Very High,Very Low
+81,0.0,High,Very Low
+82,0.0,Very High,Very Low
+83,0.0,Low,Very Low
+84,52.0,Medium,High
+85,0.0,Low,Very Low
+86,0.0,Very High,Very Low
+87,0.0,Medium,Very Low
+88,0.0,Medium,Very Low
+89,12.0,Medium,Medium
+90,4.0,Very High,Low
+91,12.0,Medium,Medium
+92,0.0,Very High,Very Low
+93,0.0,Very High,Very Low
+94,52.0,High,High
+95,52.0,High,High
+96,12.0,Very High,Medium
+97,0.0,High,Very Low
+98,0.0,Very High,Very Low
+99,0.0,High,Very Low
+100,4.0,Medium,Low
+101,0.0,Very High,Very Low
+102,0.0,Very High,Very Low
+103,4.0,High,Low
+104,0.0,Very High,Very Low
+105,12.0,Low,Medium
+106,0.0,Very High,Very Low
+107,12.0,Low,Medium
+108,0.0,High,Very Low
+109,0.0,High,Very Low
+110,0.0,Very High,Very Low
+111,0.0,Low,Very Low
+112,0.0,High,Very Low
+113,0.0,High,Very Low
+114,4.0,Medium,Low
+115,52.0,Very High,High
+116,0.0,Very High,Very Low
+117,0.0,Very High,Very Low
+118,0.0,Low,Very Low
+119,0.0,Medium,Very Low
+120,0.0,High,Very Low
+121,0.0,Very High,Very Low
+122,0.0,High,Very Low
+123,0.0,Medium,Very Low
+124,52.0,Very High,High
+125,0.0,Very High,Very Low
+126,0.0,Medium,Very Low
+127,0.0,Low,Very Low
+128,52.0,Very High,High
+129,0.0,Low,Very Low
+130,0.0,High,Very Low
+131,0.0,Low,Very Low
+132,52.0,Low,High
+133,52.0,Medium,High
+134,0.0,High,Very Low
+135,12.0,Very High,Medium
+136,4.0,High,Low
+137,4.0,Very High,Low
+138,52.0,Medium,High
+139,52.0,Low,High
+140,0.0,Very High,Very Low
+141,52.0,Low,High
+142,52.0,Medium,High
+143,0.0,Medium,Very Low
+144,4.0,Medium,Low
+145,12.0,Medium,Medium
+146,4.0,Very High,Low
+147,0.0,Low,Very Low
+148,0.0,High,Very Low
+149,0.0,Very High,Very Low
+150,12.0,High,Medium
+151,0.0,Very High,Very Low
+152,0.0,Medium,Very Low
+153,0.0,Very High,Very Low
+154,0.0,Medium,Very Low
+155,4.0,Very High,Low
+156,4.0,High,Low
+157,0.0,Low,Very Low
+158,0.0,High,Very Low
+159,12.0,High,Medium
+160,0.0,Low,Very Low
+161,12.0,Low,Medium
+162,0.0,Medium,Very Low
+163,0.0,High,Very Low
+164,52.0,High,High
+165,0.0,High,Very Low
+166,12.0,Medium,Medium
+167,12.0,Low,Medium
+168,0.0,Low,Very Low
+169,0.0,High,Very Low
+170,0.0,Low,Very Low
+171,0.0,Low,Very Low
+172,52.0,Low,High
+173,0.0,High,Very Low
+174,0.0,Medium,Very Low
+175,0.0,Low,Very Low
+176,0.0,Very High,Very Low
+177,4.0,High,Low
+178,12.0,Medium,Medium
+179,4.0,Medium,Low
+180,0.0,Low,Very Low
+181,0.0,High,Very Low
+182,52.0,High,High
+183,0.0,Very High,Very Low
+184,52.0,Low,High
+185,0.0,Low,Very Low
+186,0.0,Low,Very Low
+187,0.0,Medium,Very Low
+188,0.0,Very High,Very Low
+189,0.0,Medium,Very Low
+190,52.0,Very High,High
+191,4.0,High,Low
+192,0.0,High,Very Low
+193,0.0,Low,Very Low
+194,0.0,Very High,Very Low
+195,4.0,Very High,Low
+196,12.0,Low,Medium
+197,0.0,Very High,Very Low
+198,12.0,High,Medium
+199,0.0,Medium,Very Low
+200,52.0,High,High
+201,12.0,High,Medium
+202,0.0,Low,Very Low
+203,0.0,Low,Very Low
+204,52.0,Low,High
+205,0.0,Very High,Very Low
+206,52.0,High,High
+207,0.0,Medium,Very Low
+208,0.0,Very High,Very Low
+209,12.0,Low,Medium
+210,0.0,Very High,Very Low
+211,0.0,Low,Very Low
+212,0.0,Very High,Very Low
+213,0.0,Very High,Very Low
+214,0.0,Very High,Very Low
+215,0.0,Medium,Very Low
+216,0.0,High,Very Low
+217,52.0,High,High
+218,0.0,Medium,Very Low
+219,4.0,Medium,Low
+220,0.0,Very High,Very Low
+221,0.0,Medium,Very Low
+222,4.0,High,Low
+223,0.0,Very High,Very Low
+224,0.0,Medium,Very Low
+225,0.0,Very High,Very Low
+226,0.0,Low,Very Low
+227,12.0,High,Medium
+228,0.0,Very High,Very Low
+229,0.0,High,Very Low
+230,0.0,Low,Very Low
+231,0.0,Very High,Very Low
+232,0.0,Low,Very Low
+233,0.0,Low,Very Low
+234,0.0,Very High,Very Low
+235,52.0,Low,High
+236,4.0,Very High,Low
+237,0.0,High,Very Low
+238,0.0,Very High,Very Low
+239,0.0,Low,Very Low
+240,0.0,Medium,Very Low
+241,0.0,Medium,Very Low
+242,0.0,Very High,Very Low
+243,0.0,Very High,Very Low
+244,12.0,Very High,Medium
+245,52.0,Medium,High
+246,0.0,Medium,Very Low
+247,0.0,Very High,Very Low
+248,52.0,High,High
+249,52.0,Very High,High
+250,0.0,Medium,Very Low
+251,52.0,Low,High
+252,0.0,Medium,Very Low
+253,0.0,Medium,Very Low
+254,0.0,High,Very Low
+255,0.0,Medium,Very Low
+256,0.0,Low,Very Low
+257,0.0,Low,Very Low
+258,4.0,Medium,Low
+259,4.0,High,Low
+260,0.0,Medium,Very Low
+261,0.0,Medium,Very Low
+262,0.0,High,Very Low
+263,0.0,Medium,Very Low
+264,12.0,Medium,Medium
+265,0.0,High,Very Low
+266,0.0,Medium,Very Low
+267,52.0,High,High
+268,0.0,Medium,Very Low
+269,12.0,Medium,Medium
+270,0.0,Medium,Very Low
+271,0.0,Medium,Very Low
+272,0.0,High,Very Low
+273,0.0,Low,Very Low
+274,4.0,Low,Low
+275,0.0,Low,Very Low
+276,52.0,Very High,High
+277,0.0,Low,Very Low
+278,0.0,Low,Very Low
+279,0.0,Very High,Very Low
+280,12.0,High,Medium
+281,0.0,High,Very Low
+282,0.0,High,Very Low
+283,12.0,Very High,Medium
+284,0.0,Low,Very Low
+285,4.0,Medium,Low
+286,0.0,Low,Very Low
+287,0.0,Medium,Very Low
+288,0.0,Low,Very Low
+289,0.0,High,Very Low
+290,12.0,Very High,Medium
+291,52.0,Low,High
+292,12.0,Low,Medium
+293,4.0,Very High,Low
+294,0.0,Low,Very Low
+295,0.0,Low,Very Low
+296,4.0,Medium,Low
+297,52.0,High,High
+298,0.0,Low,Very Low
+299,0.0,Medium,Very Low
+300,0.0,High,Very Low
+301,52.0,Very High,High
+302,0.0,Very High,Very Low
+303,0.0,Medium,Very Low
+304,52.0,Medium,High
+305,0.0,Very High,Very Low
+306,0.0,Medium,Very Low
+307,0.0,Medium,Very Low
+308,0.0,Low,Very Low
+309,0.0,Low,Very Low
+310,0.0,Low,Very Low
+311,0.0,Very High,Very Low
+312,12.0,Medium,Medium
+313,0.0,Very High,Very Low
+314,0.0,High,Very Low
+315,0.0,Low,Very Low
+316,0.0,Low,Very Low
+317,12.0,Low,Medium
+318,0.0,Very High,Very Low
+319,0.0,High,Very Low
+320,0.0,High,Very Low
+321,4.0,High,Low
+322,4.0,Low,Low
+323,12.0,Very High,Medium
+324,0.0,High,Very Low
+325,4.0,Very High,Low
+326,0.0,High,Very Low
+327,52.0,Medium,High
+328,52.0,Medium,High
+329,52.0,Medium,High
+330,12.0,Low,Medium
+331,0.0,Medium,Very Low
+332,4.0,Very High,Low
+333,12.0,Very High,Medium
+334,0.0,High,Very Low
+335,0.0,Medium,Very Low
+336,0.0,Very High,Very Low
+337,0.0,High,Very Low
+338,0.0,Medium,Very Low
+339,52.0,High,High
+340,0.0,Low,Very Low
+341,0.0,Medium,Very Low
+342,0.0,Low,Very Low
+343,0.0,Low,Very Low
+344,12.0,Low,Medium
+345,12.0,High,Medium
+346,0.0,Medium,Very Low
+347,52.0,Medium,High
+348,0.0,Medium,Very Low
+349,0.0,Medium,Very Low
+350,0.0,Very High,Very Low
+351,0.0,High,Very Low
+352,0.0,Very High,Very Low
+353,0.0,High,Very Low
+354,12.0,High,Medium
+355,52.0,High,High
+356,0.0,Medium,Very Low
+357,52.0,High,High
+358,0.0,Medium,Very Low
+359,0.0,Low,Very Low
+360,0.0,High,Very Low
+361,0.0,Low,Very Low
+362,0.0,Very High,Very Low
+363,0.0,High,Very Low
+364,0.0,Very High,Very Low
+365,0.0,Very High,Very Low
+366,4.0,Very High,Low
+367,0.0,Low,Very Low
+368,12.0,Medium,Medium
+369,12.0,Low,Medium
+370,4.0,Medium,Low
+371,52.0,Low,High
+372,12.0,Very High,Medium
+373,52.0,Very High,High
+374,0.0,Low,Very Low
+375,12.0,High,Medium
+376,4.0,Low,Low
+377,0.0,Medium,Very Low
+378,0.0,Low,Very Low
+379,12.0,High,Medium
+380,0.0,Low,Very Low
+381,52.0,High,High
+382,0.0,Low,Very Low
+383,4.0,High,Low
+384,4.0,High,Low
+385,0.0,Low,Very Low
+386,0.0,Very High,Very Low
+387,4.0,Low,Low
+388,0.0,Very High,Very Low
+389,4.0,Very High,Low
+390,12.0,Medium,Medium
+391,0.0,High,Very Low
+392,0.0,Very High,Very Low
+393,0.0,Very High,Very Low
+394,0.0,High,Very Low
+395,0.0,Low,Very Low
+396,0.0,High,Very Low
+397,0.0,Very High,Very Low
+398,0.0,Medium,Very Low
+399,0.0,High,Very Low
+400,12.0,Low,Medium
+401,0.0,High,Very Low
+402,4.0,Very High,Low
+403,12.0,High,Medium
+404,0.0,Medium,Very Low
+405,12.0,Very High,Medium
+406,0.0,High,Very Low
+407,12.0,Medium,Medium
+408,0.0,High,Very Low
+409,0.0,High,Very Low
+410,12.0,Medium,Medium
+411,4.0,Low,Low
+412,0.0,Low,Very Low
+413,52.0,High,High
+414,12.0,Very High,Medium
+415,52.0,Very High,High
+416,12.0,Low,Medium
+417,0.0,Medium,Very Low
+418,4.0,High,Low
+419,0.0,High,Very Low
+420,0.0,Very High,Very Low
+421,0.0,Medium,Very Low
+422,0.0,Medium,Very Low
+423,0.0,Medium,Very Low
+424,0.0,Low,Very Low
+425,0.0,Low,Very Low
+426,4.0,Very High,Low
+427,4.0,High,Low
+428,4.0,Very High,Low
+429,0.0,High,Very Low
+430,0.0,Very High,Very Low
+431,0.0,Medium,Very Low
+432,0.0,High,Very Low
+433,52.0,Very High,High
+434,0.0,Very High,Very Low
+435,0.0,Medium,Very Low
+436,12.0,Low,Medium
+437,52.0,Medium,High
+438,0.0,Medium,Very Low
+439,0.0,Low,Very Low
+440,12.0,Medium,Medium
+441,0.0,Very High,Very Low
+442,0.0,High,Very Low
+443,4.0,High,Low
+444,0.0,High,Very Low
+445,0.0,Low,Very Low
+446,0.0,Low,Very Low
+447,12.0,High,Medium
+448,0.0,Very High,Very Low
+449,0.0,Low,Very Low
+450,12.0,Medium,Medium
+451,12.0,Low,Medium
+452,0.0,Low,Very Low
+453,0.0,Medium,Very Low
+454,52.0,Medium,High
+455,0.0,Very High,Very Low
+456,0.0,Very High,Very Low
+457,4.0,Very High,Low
+458,0.0,Very High,Very Low
+459,12.0,Very High,Medium
+460,0.0,Low,Very Low
+461,52.0,High,High
+462,52.0,Very High,High
+463,0.0,High,Very Low
+464,52.0,High,High
+465,12.0,Medium,Medium
+466,4.0,Very High,Low
+467,52.0,Low,High
+468,0.0,Medium,Very Low
+469,4.0,Low,Low
+470,0.0,Medium,Very Low
+471,0.0,High,Very Low
+472,4.0,High,Low
+473,4.0,Low,Low
+474,0.0,Medium,Very Low
+475,4.0,High,Low
+476,0.0,High,Very Low
+477,0.0,Very High,Very Low
+478,52.0,Medium,High
+479,0.0,Medium,Very Low
+480,12.0,Very High,Medium
+481,0.0,Very High,Very Low
+482,0.0,Very High,Very Low
+483,0.0,Medium,Very Low
+484,52.0,High,High
+485,4.0,High,Low
+486,0.0,Medium,Very Low
+487,0.0,High,Very Low
+488,4.0,High,Low
+489,52.0,Low,High
+490,0.0,Very High,Very Low
+491,12.0,Medium,Medium
+492,0.0,High,Very Low
+493,52.0,High,High
+494,0.0,Medium,Very Low
+495,52.0,High,High
+496,0.0,Low,Very Low
+497,0.0,High,Very Low
+498,52.0,Low,High
+499,12.0,High,Medium
+500,12.0,Very High,Medium
+501,0.0,Low,Very Low
+502,0.0,Medium,Very Low
+503,0.0,Low,Very Low
+504,4.0,Low,Low
+505,0.0,Low,Very Low
+506,0.0,High,Very Low
+507,0.0,Medium,Very Low
+508,0.0,Low,Very Low
+509,4.0,Low,Low
+510,52.0,High,High
+511,0.0,Very High,Very Low
+512,0.0,Medium,Very Low
+513,12.0,Medium,Medium
+514,0.0,High,Very Low
+515,4.0,High,Low
+516,12.0,High,Medium
+517,0.0,Medium,Very Low
+518,0.0,Medium,Very Low
+519,0.0,Very High,Very Low
+520,4.0,Medium,Low
+521,4.0,Very High,Low
+522,0.0,Medium,Very Low
+523,4.0,Very High,Low
+524,4.0,Medium,Low
+525,0.0,Low,Very Low
+526,12.0,Low,Medium
+527,12.0,Medium,Medium
+528,0.0,Low,Very Low
+529,0.0,Very High,Very Low
+530,12.0,Very High,Medium
+531,0.0,Low,Very Low
+532,52.0,Medium,High
+533,0.0,High,Very Low
+534,52.0,Medium,High
+535,4.0,High,Low
+536,52.0,Medium,High
+537,0.0,Very High,Very Low
+538,0.0,Medium,Very Low
+539,52.0,Low,High
+540,52.0,Medium,High
+541,0.0,Low,Very Low
+542,0.0,Low,Very Low
+543,0.0,High,Very Low
+544,12.0,Very High,Medium
+545,0.0,High,Very Low
+546,0.0,Low,Very Low
+547,0.0,High,Very Low
+548,52.0,Medium,High
+549,0.0,High,Very Low
+550,0.0,Low,Very Low
+551,52.0,High,High
+552,0.0,High,Very Low
+553,52.0,Very High,High
+554,4.0,Medium,Low
+555,52.0,Medium,High
+556,0.0,Medium,Very Low
+557,0.0,Very High,Very Low
+558,52.0,Medium,High
+559,0.0,High,Very Low
+560,12.0,Medium,Medium
+561,0.0,Medium,Very Low
+562,0.0,High,Very Low
+563,0.0,High,Very Low
+564,4.0,Very High,Low
+565,52.0,Medium,High
+566,52.0,Medium,High
+567,0.0,Very High,Very Low
+568,0.0,Medium,Very Low
+569,12.0,Very High,Medium
+570,0.0,Low,Very Low
+571,0.0,Very High,Very Low
+572,52.0,High,High
+573,0.0,Very High,Very Low
+574,0.0,High,Very Low
+575,0.0,High,Very Low
+576,12.0,Very High,Medium
+577,0.0,High,Very Low
+578,0.0,Medium,Very Low
+579,0.0,Very High,Very Low
+580,0.0,Medium,Very Low
+581,52.0,High,High
+582,0.0,Very High,Very Low
+583,4.0,High,Low
+584,12.0,High,Medium
+585,12.0,Very High,Medium
+586,0.0,Low,Very Low
+587,0.0,Low,Very Low
+588,0.0,Very High,Very Low
+589,4.0,Medium,Low
+590,0.0,High,Very Low
+591,0.0,Low,Very Low
+592,0.0,Low,Very Low
+593,0.0,Low,Very Low
+594,0.0,Low,Very Low
+595,12.0,Very High,Medium
+596,4.0,High,Low
+597,0.0,Low,Very Low
+598,0.0,High,Very Low
+599,0.0,High,Very Low
+600,0.0,Low,Very Low
+601,12.0,High,Medium
+602,0.0,Low,Very Low
+603,0.0,Medium,Very Low
+604,0.0,Medium,Very Low
+605,0.0,Very High,Very Low
+606,52.0,Low,High
+607,12.0,Very High,Medium
+608,12.0,Low,Medium
+609,0.0,Low,Very Low
+610,0.0,Medium,Very Low
+611,0.0,High,Very Low
+612,12.0,Low,Medium
+613,4.0,Medium,Low
+614,0.0,Medium,Very Low
+615,0.0,Very High,Very Low
+616,0.0,Very High,Very Low
+617,0.0,High,Very Low
+618,4.0,Medium,Low
+619,0.0,Very High,Very Low
+620,0.0,Low,Very Low
+621,0.0,Very High,Very Low
+622,52.0,Low,High
+623,0.0,High,Very Low
+624,0.0,High,Very Low
+625,0.0,Very High,Very Low
+626,52.0,High,High
+627,0.0,High,Very Low
+628,12.0,Medium,Medium
+629,12.0,Very High,Medium
+630,0.0,Very High,Very Low
+631,0.0,Very High,Very Low
+632,0.0,High,Very Low
+633,0.0,Medium,Very Low
+634,4.0,Low,Low
+635,52.0,Medium,High
+636,4.0,Medium,Low
+637,0.0,Low,Very Low
+638,0.0,Low,Very Low
+639,12.0,Low,Medium
+640,0.0,Low,Very Low
+641,0.0,Very High,Very Low
+642,0.0,High,Very Low
+643,0.0,Low,Very Low
+644,0.0,Medium,Very Low
+645,52.0,Very High,High
+646,0.0,Medium,Very Low
+647,0.0,Medium,Very Low
+648,0.0,High,Very Low
+649,52.0,Low,High
+650,0.0,Very High,Very Low
+651,0.0,Medium,Very Low
+652,0.0,Low,Very Low
+653,52.0,Low,High
+654,0.0,High,Very Low
+655,0.0,Medium,Very Low
+656,12.0,Low,Medium
+657,4.0,Low,Low
+658,4.0,High,Low
+659,52.0,Low,High
+660,52.0,Medium,High
+661,4.0,High,Low
+662,4.0,High,Low
+663,0.0,Very High,Very Low
+664,12.0,Very High,Medium
+665,0.0,Very High,Very Low
+666,0.0,Medium,Very Low
+667,4.0,Low,Low
+668,4.0,High,Low
+669,12.0,Very High,Medium
+670,0.0,Very High,Very Low
+671,0.0,Medium,Very Low
+672,52.0,Low,High
+673,4.0,Medium,Low
+674,0.0,High,Very Low
+675,0.0,Low,Very Low
+676,0.0,Very High,Very Low
+677,0.0,Medium,Very Low
+678,0.0,High,Very Low
+679,0.0,High,Very Low
+680,0.0,Very High,Very Low
+681,0.0,Low,Very Low
+682,0.0,Medium,Very Low
+683,0.0,Low,Very Low
+684,12.0,Low,Medium
+685,12.0,Very High,Medium
+686,0.0,High,Very Low
+687,0.0,Low,Very Low
+688,4.0,Low,Low
+689,12.0,Medium,Medium
+690,0.0,Very High,Very Low
+691,52.0,High,High
+692,0.0,Low,Very Low
+693,0.0,Very High,Very Low
+694,0.0,Medium,Very Low
+695,0.0,Low,Very Low
+696,0.0,High,Very Low
+697,12.0,Medium,Medium
+698,4.0,High,Low
+699,52.0,Medium,High
+700,52.0,Medium,High
+701,12.0,High,Medium
+702,0.0,Very High,Very Low
+703,52.0,High,High
+704,52.0,Very High,High
+705,0.0,High,Very Low
+706,4.0,Very High,Low
+707,52.0,Medium,High
+708,0.0,Low,Very Low
+709,0.0,Medium,Very Low
+710,12.0,High,Medium
+711,0.0,Very High,Very Low
+712,0.0,Medium,Very Low
+713,4.0,High,Low
+714,0.0,Very High,Very Low
+715,0.0,High,Very Low
+716,4.0,High,Low
+717,0.0,Low,Very Low
+718,0.0,Very High,Very Low
+719,0.0,Low,Very Low
+720,0.0,Low,Very Low
+721,52.0,High,High
+722,0.0,Medium,Very Low
+723,0.0,Low,Very Low
+724,12.0,Medium,Medium
+725,0.0,High,Very Low
+726,0.0,High,Very Low
+727,0.0,High,Very Low
+728,0.0,Very High,Very Low
+729,0.0,High,Very Low
+730,0.0,Medium,Very Low
+731,0.0,Low,Very Low
+732,0.0,Low,Very Low
+733,0.0,Medium,Very Low
+734,0.0,Low,Very Low
+735,0.0,High,Very Low
+736,0.0,Medium,Very Low
+737,0.0,Medium,Very Low
+738,0.0,Low,Very Low
+739,4.0,Low,Low
+740,0.0,Low,Very Low
+741,0.0,High,Very Low
+742,0.0,High,Very Low
+743,4.0,Low,Low
+744,52.0,Very High,High
+745,0.0,High,Very Low
+746,12.0,Very High,Medium
+747,0.0,Medium,Very Low
+748,52.0,High,High
+749,4.0,Low,Low
+750,4.0,High,Low
+751,0.0,Very High,Very Low
+752,12.0,High,Medium
+753,0.0,Very High,Very Low
+754,4.0,Medium,Low
+755,4.0,Medium,Low
+756,52.0,Low,High
+757,0.0,Very High,Very Low
+758,4.0,Low,Low
+759,0.0,High,Very Low
+760,0.0,Medium,Very Low
+761,0.0,Medium,Very Low
+762,52.0,Very High,High
+763,0.0,Medium,Very Low
+764,12.0,Medium,Medium
+765,4.0,Low,Low
+766,4.0,Very High,Low
+767,12.0,Medium,Medium
+768,0.0,High,Very Low
+769,52.0,Very High,High
+770,12.0,Very High,Medium
+771,0.0,Medium,Very Low
+772,0.0,High,Very Low
+773,0.0,Low,Very Low
+774,0.0,Very High,Very Low
+775,4.0,Medium,Low
+776,12.0,Medium,Medium
+777,0.0,Medium,Very Low
+778,52.0,Low,High
+779,0.0,Medium,Very Low
+780,0.0,Very High,Very Low
+781,4.0,Low,Low
+782,0.0,Medium,Very Low
+783,52.0,Medium,High
+784,0.0,High,Very Low
+785,0.0,High,Very Low
+786,0.0,High,Very Low
+787,0.0,Low,Very Low
+788,52.0,Very High,High
+789,4.0,Medium,Low
+790,0.0,Very High,Very Low
+791,4.0,Low,Low
+792,0.0,Medium,Very Low
+793,52.0,Medium,High
+794,12.0,Low,Medium
+795,0.0,Medium,Very Low
+796,0.0,Low,Very Low
+797,0.0,High,Very Low
+798,52.0,Very High,High
+799,0.0,Low,Very Low
+800,0.0,Medium,Very Low
+801,0.0,Low,Very Low
+802,0.0,Low,Very Low
+803,52.0,Medium,High
+804,0.0,Low,Very Low
+805,4.0,Medium,Low
+806,12.0,Low,Medium
+807,4.0,Medium,Low
+808,52.0,Very High,High
+809,0.0,Very High,Very Low
+810,0.0,High,Very Low
+811,0.0,Very High,Very Low
+812,4.0,Low,Low
+813,52.0,Medium,High
+814,0.0,Medium,Very Low
+815,12.0,High,Medium
+816,0.0,Very High,Very Low
+817,12.0,Low,Medium
+818,0.0,Low,Very Low
+819,12.0,Very High,Medium
+820,4.0,Low,Low
+821,12.0,Low,Medium
+822,0.0,Low,Very Low
+823,0.0,Medium,Very Low
+824,4.0,Low,Low
+825,4.0,Very High,Low
+826,12.0,Very High,Medium
+827,52.0,Very High,High
+828,0.0,Medium,Very Low
+829,0.0,High,Very Low
+830,0.0,Medium,Very Low
+831,0.0,High,Very Low
+832,0.0,High,Very Low
+833,0.0,High,Very Low
+834,0.0,High,Very Low
+835,52.0,Very High,High
+836,52.0,Low,High
+837,0.0,Very High,Very Low
+838,0.0,Low,Very Low
+839,0.0,Low,Very Low
+840,0.0,Low,Very Low
+841,52.0,Low,High
+842,0.0,Very High,Very Low
+843,52.0,Very High,High
+844,52.0,High,High
+845,0.0,Medium,Very Low
+846,12.0,Low,Medium
+847,4.0,High,Low
+848,12.0,Medium,Medium
+849,0.0,High,Very Low
+850,4.0,High,Low
+851,12.0,Low,Medium
+852,12.0,Very High,Medium
+853,0.0,Medium,Very Low
+854,12.0,Medium,Medium
+855,12.0,Medium,Medium
+856,4.0,High,Low
+857,0.0,Low,Very Low
+858,0.0,Medium,Very Low
+859,52.0,Low,High
+860,12.0,High,Medium
+861,12.0,Very High,Medium
+862,0.0,Very High,Very Low
+863,0.0,Very High,Very Low
+864,0.0,Medium,Very Low
+865,0.0,Medium,Very Low
+866,0.0,Low,Very Low
+867,0.0,High,Very Low
+868,0.0,Low,Very Low
+869,0.0,Very High,Very Low
+870,52.0,Medium,High
+871,0.0,High,Very Low
+872,4.0,Medium,Low
+873,4.0,Low,Low
+874,4.0,High,Low
+875,0.0,High,Very Low
+876,0.0,Low,Very Low
+877,52.0,Medium,High
+878,0.0,High,Very Low
+879,52.0,Very High,High
+880,4.0,High,Low
+881,12.0,High,Medium
+882,0.0,High,Very Low
+883,0.0,Low,Very Low
+884,12.0,Low,Medium
+885,52.0,Very High,High
+886,0.0,Very High,Very Low
+887,12.0,Medium,Medium
+888,0.0,Medium,Very Low
+889,0.0,High,Very Low
+890,52.0,Very High,High
+891,12.0,Medium,Medium
+892,0.0,Low,Very Low
+893,12.0,High,Medium
+894,12.0,Medium,Medium
+895,4.0,Medium,Low
+896,4.0,High,Low
+897,0.0,Low,Very Low
+898,52.0,Very High,High
+899,0.0,High,Very Low
+900,0.0,Medium,Very Low
+901,4.0,Very High,Low
+902,12.0,High,Medium
+903,12.0,Medium,Medium
+904,4.0,Medium,Low
+905,0.0,Very High,Very Low
+906,0.0,High,Very Low
+907,0.0,Medium,Very Low
+908,0.0,Medium,Very Low
+909,0.0,Very High,Very Low
+910,52.0,Medium,High
+911,12.0,Low,Medium
+912,4.0,High,Low
+913,12.0,Medium,Medium
+914,0.0,Medium,Very Low
+915,0.0,High,Very Low
+916,0.0,Low,Very Low
+917,12.0,Low,Medium
+918,4.0,High,Low
+919,0.0,Medium,Very Low
+920,0.0,Very High,Very Low
+921,52.0,High,High
+922,52.0,Low,High
+923,12.0,Medium,Medium
+924,52.0,Low,High
+925,4.0,High,Low
+926,12.0,Very High,Medium
+927,0.0,High,Very Low
+928,0.0,High,Very Low
+929,0.0,Low,Very Low
+930,0.0,Very High,Very Low
+931,0.0,High,Very Low
+932,0.0,Low,Very Low
+933,0.0,Low,Very Low
+934,12.0,Very High,Medium
+935,12.0,Medium,Medium
+936,0.0,Medium,Very Low
+937,52.0,Very High,High
+938,4.0,Low,Low
+939,0.0,Very High,Very Low
+940,12.0,Very High,Medium
+941,0.0,Medium,Very Low
+942,0.0,Low,Very Low
+943,0.0,Very High,Very Low
+944,0.0,High,Very Low
+945,0.0,Very High,Very Low
+946,0.0,Low,Very Low
+947,4.0,Low,Low
+948,0.0,Low,Very Low
+949,0.0,Very High,Very Low
+950,12.0,Low,Medium
+951,4.0,Low,Low
+952,12.0,Medium,Medium
+953,12.0,High,Medium
+954,4.0,Medium,Low
+955,0.0,High,Very Low
+956,12.0,High,Medium
+957,4.0,Very High,Low
+958,4.0,Low,Low
+959,0.0,Medium,Very Low
+960,0.0,Very High,Very Low
+961,4.0,Medium,Low
+962,4.0,High,Low
+963,0.0,High,Very Low
+964,52.0,High,High
+965,0.0,Medium,Very Low
+966,0.0,Medium,Very Low
+967,0.0,Medium,Very Low
+968,52.0,Low,High
+969,4.0,High,Low
+970,12.0,Low,Medium
+971,12.0,High,Medium
+972,52.0,High,High
+973,52.0,High,High
+974,4.0,High,Low
+975,12.0,Very High,Medium
+976,52.0,Medium,High
+977,0.0,Very High,Very Low
+978,0.0,Low,Very Low
+979,52.0,Medium,High
+980,12.0,Low,Medium
+981,0.0,Very High,Very Low
+982,4.0,Medium,Low
+983,12.0,High,Medium
+984,0.0,Medium,Very Low
+985,0.0,High,Very Low
+986,0.0,High,Very Low
+987,12.0,Very High,Medium
+988,52.0,Medium,High
+989,0.0,Very High,Very Low
+990,12.0,Low,Medium
+991,52.0,High,High
+992,0.0,Very High,Very Low
+993,52.0,Very High,High
+994,52.0,Very High,High
+995,12.0,High,Medium
+996,52.0,High,High
+997,4.0,Very High,Low
+998,0.0,Low,Very Low
+999,0.0,Very High,Very Low
+1000,12.0,Low,Medium
+1001,0.0,Medium,Very Low
+1002,0.0,Medium,Very Low
+1003,0.0,Medium,Very Low
+1004,0.0,High,Very Low
+1005,0.0,High,Very Low
+1006,0.0,Very High,Very Low
+1007,4.0,Very High,Low
+1008,0.0,High,Very Low
+1009,0.0,Very High,Very Low
+1010,0.0,Low,Very Low
+1011,0.0,Low,Very Low
+1012,0.0,Low,Very Low
+1013,0.0,Low,Very Low
+1014,0.0,High,Very Low
+1015,0.0,Very High,Very Low
+1016,52.0,Low,High
+1017,0.0,Low,Very Low
+1018,0.0,Medium,Very Low
+1019,52.0,High,High
+1020,0.0,High,Very Low
+1021,0.0,Very High,Very Low
+1022,52.0,Medium,High
+1023,0.0,Medium,Very Low
+1024,0.0,High,Very Low
+1025,4.0,High,Low
+1026,0.0,Very High,Very Low
+1027,0.0,Very High,Very Low
+1028,12.0,Very High,Medium
+1029,0.0,Low,Very Low
+1030,0.0,Low,Very Low
+1031,4.0,Very High,Low
+1032,4.0,Medium,Low
+1033,4.0,Low,Low
+1034,4.0,Medium,Low
+1035,52.0,Low,High
+1036,0.0,Very High,Very Low
+1037,12.0,Medium,Medium
+1038,4.0,Low,Low
+1039,52.0,High,High
+1040,12.0,Medium,Medium
+1041,0.0,Low,Very Low
+1042,0.0,Low,Very Low
+1043,52.0,High,High
+1044,0.0,High,Very Low
+1045,0.0,Low,Very Low
+1046,0.0,High,Very Low
+1047,0.0,Low,Very Low
+1048,0.0,Low,Very Low
+1049,0.0,High,Very Low
+1050,4.0,Low,Low
+1051,12.0,High,Medium
+1052,0.0,Medium,Very Low
+1053,0.0,Low,Very Low
+1054,0.0,High,Very Low
+1055,4.0,Very High,Low
+1056,0.0,Low,Very Low
+1057,0.0,High,Very Low
+1058,52.0,Low,High
+1059,0.0,Low,Very Low
+1060,12.0,Low,Medium
+1061,0.0,Low,Very Low
+1062,0.0,High,Very Low
+1063,0.0,High,Very Low
+1064,12.0,Low,Medium
+1065,0.0,Low,Very Low
+1066,0.0,Low,Very Low
+1067,0.0,Very High,Very Low
+1068,4.0,Medium,Low
+1069,52.0,Very High,High
+1070,0.0,High,Very Low
+1071,52.0,High,High
+1072,12.0,High,Medium
+1073,0.0,Very High,Very Low
+1074,12.0,Very High,Medium
+1075,0.0,High,Very Low
+1076,0.0,Medium,Very Low
+1077,0.0,High,Very Low
+1078,4.0,Low,Low
+1079,0.0,Medium,Very Low
+1080,12.0,Low,Medium
+1081,0.0,Medium,Very Low
+1082,0.0,Low,Very Low
+1083,4.0,Very High,Low
+1084,52.0,Very High,High
+1085,4.0,Low,Low
+1086,0.0,Very High,Very Low
+1087,0.0,High,Very Low
+1088,12.0,High,Medium
+1089,52.0,Low,High
+1090,0.0,High,Very Low
+1091,0.0,Medium,Very Low
+1092,0.0,High,Very Low
+1093,4.0,Medium,Low
+1094,0.0,Medium,Very Low
+1095,4.0,Medium,Low
+1096,4.0,Low,Low
+1097,0.0,Medium,Very Low
+1098,52.0,Low,High
+1099,52.0,Very High,High
+1100,0.0,High,Very Low
+1101,52.0,Low,High
+1102,0.0,High,Very Low
+1103,0.0,Very High,Very Low
+1104,0.0,Low,Very Low
+1105,4.0,Low,Low
+1106,0.0,Very High,Very Low
+1107,0.0,Very High,Very Low
+1108,52.0,High,High
+1109,0.0,Low,Very Low
+1110,52.0,Very High,High
+1111,0.0,High,Very Low
+1112,0.0,High,Very Low
+1113,4.0,High,Low
+1114,0.0,High,Very Low
+1115,0.0,Low,Very Low
+1116,52.0,Medium,High
+1117,0.0,Very High,Very Low
+1118,12.0,High,Medium
+1119,0.0,High,Very Low
+1120,52.0,Low,High
+1121,12.0,Very High,Medium
+1122,4.0,Medium,Low
+1123,0.0,High,Very Low
+1124,12.0,High,Medium
+1125,4.0,Low,Low
+1126,52.0,Very High,High
+1127,0.0,Medium,Very Low
+1128,12.0,Medium,Medium
+1129,12.0,Low,Medium
+1130,0.0,High,Very Low
+1131,0.0,Medium,Very Low
+1132,12.0,High,Medium
+1133,0.0,Very High,Very Low
+1134,52.0,Low,High
+1135,0.0,High,Very Low
+1136,4.0,Very High,Low
+1137,12.0,Very High,Medium
+1138,0.0,Very High,Very Low
+1139,0.0,Low,Very Low
+1140,0.0,Medium,Very Low
+1141,0.0,Low,Very Low
+1142,0.0,Low,Very Low
+1143,0.0,High,Very Low
+1144,4.0,Low,Low
+1145,0.0,Medium,Very Low
+1146,0.0,Very High,Very Low
+1147,0.0,Low,Very Low
+1148,0.0,Low,Very Low
+1149,0.0,High,Very Low
+1150,0.0,Medium,Very Low
+1151,0.0,Low,Very Low
+1152,52.0,Very High,High
+1153,0.0,Medium,Very Low
+1154,4.0,Medium,Low
+1155,0.0,Very High,Very Low
+1156,4.0,Medium,Low
+1157,0.0,Low,Very Low
+1158,4.0,High,Low
+1159,0.0,Very High,Very Low
+1160,0.0,Medium,Very Low
+1161,0.0,Medium,Very Low
+1162,12.0,Medium,Medium
+1163,52.0,Very High,High
+1164,12.0,Medium,Medium
+1165,4.0,Very High,Low
+1166,0.0,High,Very Low
+1167,0.0,Medium,Very Low
+1168,4.0,Very High,Low
+1169,0.0,Very High,Very Low
+1170,0.0,Very High,Very Low
+1171,0.0,High,Very Low
+1172,0.0,Medium,Very Low
+1173,0.0,High,Very Low
+1174,0.0,High,Very Low
+1175,0.0,Low,Very Low
+1176,4.0,High,Low
+1177,4.0,Very High,Low
+1178,12.0,Low,Medium
+1179,0.0,Low,Very Low
+1180,0.0,Low,Very Low
+1181,12.0,Low,Medium
+1182,4.0,Very High,Low
+1183,4.0,Low,Low
+1184,52.0,Low,High
+1185,0.0,High,Very Low
+1186,12.0,High,Medium
+1187,0.0,High,Very Low
+1188,0.0,Very High,Very Low
+1189,52.0,Low,High
+1190,0.0,Very High,Very Low
+1191,52.0,Medium,High
+1192,4.0,High,Low
+1193,4.0,Medium,Low
+1194,0.0,Medium,Very Low
+1195,0.0,Medium,Very Low
+1196,12.0,Very High,Medium
+1197,0.0,Very High,Very Low
+1198,0.0,Very High,Very Low
+1199,0.0,Medium,Very Low
+1200,52.0,Very High,High
+1201,52.0,Low,High
+1202,0.0,High,Very Low
+1203,0.0,Low,Very Low
+1204,0.0,Very High,Very Low
+1205,0.0,Very High,Very Low
+1206,0.0,Very High,Very Low
+1207,0.0,Medium,Very Low
+1208,0.0,Very High,Very Low
+1209,0.0,Very High,Very Low
+1210,12.0,High,Medium
+1211,4.0,High,Low
+1212,0.0,Very High,Very Low
+1213,52.0,High,High
+1214,0.0,Medium,Very Low
+1215,0.0,High,Very Low
+1216,0.0,Low,Very Low
+1217,0.0,Low,Very Low
+1218,0.0,High,Very Low
+1219,0.0,High,Very Low
+1220,0.0,Low,Very Low
+1221,4.0,High,Low
+1222,4.0,High,Low
+1223,0.0,High,Very Low
+1224,52.0,Low,High
+1225,52.0,Medium,High
+1226,52.0,Very High,High
+1227,0.0,Very High,Very Low
+1228,0.0,Low,Very Low
+1229,0.0,Medium,Very Low
+1230,0.0,Medium,Very Low
+1231,12.0,High,Medium
+1232,0.0,High,Very Low
+1233,0.0,Low,Very Low
+1234,0.0,High,Very Low
+1235,0.0,Very High,Very Low
+1236,0.0,Low,Very Low
+1237,0.0,High,Very Low
+1238,4.0,Very High,Low
+1239,0.0,High,Very Low
+1240,0.0,Low,Very Low
+1241,0.0,High,Very Low
+1242,52.0,Medium,High
+1243,4.0,Low,Low
+1244,0.0,Low,Very Low
+1245,12.0,High,Medium
+1246,52.0,Low,High
+1247,12.0,Medium,Medium
+1248,0.0,Very High,Very Low
+1249,0.0,Low,Very Low
+1250,0.0,Medium,Very Low
+1251,12.0,Low,Medium
+1252,12.0,Very High,Medium
+1253,4.0,Medium,Low
+1254,0.0,Low,Very Low
+1255,0.0,Medium,Very Low
+1256,0.0,High,Very Low
+1257,0.0,Medium,Very Low
+1258,0.0,High,Very Low
+1259,0.0,Very High,Very Low
+1260,12.0,High,Medium
+1261,4.0,Very High,Low
+1262,0.0,Low,Very Low
+1263,12.0,High,Medium
+1264,0.0,High,Very Low
+1265,0.0,Very High,Very Low
+1266,52.0,High,High
+1267,0.0,Low,Very Low
+1268,52.0,Very High,High
+1269,0.0,Very High,Very Low
+1270,4.0,Medium,Low
+1271,0.0,Very High,Very Low
+1272,0.0,Medium,Very Low
+1273,12.0,High,Medium
+1274,0.0,Low,Very Low
+1275,4.0,High,Low
+1276,12.0,Low,Medium
+1277,52.0,High,High
+1278,4.0,Very High,Low
+1279,0.0,Very High,Very Low
+1280,0.0,Medium,Very Low
+1281,0.0,High,Very Low
+1282,0.0,High,Very Low
+1283,12.0,High,Medium
+1284,0.0,Very High,Very Low
+1285,0.0,Very High,Very Low
+1286,0.0,Very High,Very Low
+1287,0.0,Medium,Very Low
+1288,12.0,Low,Medium
+1289,0.0,Very High,Very Low
+1290,52.0,Low,High
+1291,0.0,Low,Very Low
+1292,0.0,High,Very Low
+1293,0.0,High,Very Low
+1294,0.0,High,Very Low
+1295,0.0,High,Very Low
+1296,52.0,Medium,High
+1297,0.0,Low,Very Low
+1298,0.0,Very High,Very Low
+1299,0.0,High,Very Low
+1300,0.0,Low,Very Low
+1301,0.0,Very High,Very Low
+1302,52.0,Medium,High
+1303,12.0,Low,Medium
+1304,0.0,Low,Very Low
+1305,0.0,High,Very Low
+1306,0.0,Medium,Very Low
+1307,0.0,Low,Very Low
+1308,0.0,Low,Very Low
+1309,0.0,Low,Very Low
+1310,4.0,Low,Low
+1311,0.0,Medium,Very Low
+1312,0.0,Very High,Very Low
+1313,12.0,High,Medium
+1314,0.0,Low,Very Low
+1315,0.0,High,Very Low
+1316,4.0,High,Low
+1317,0.0,Low,Very Low
+1318,12.0,Medium,Medium
+1319,0.0,Very High,Very Low
+1320,52.0,Low,High
+1321,0.0,Low,Very Low
+1322,0.0,Very High,Very Low
+1323,4.0,High,Low
+1324,0.0,High,Very Low
+1325,0.0,High,Very Low
+1326,12.0,High,Medium
+1327,12.0,Medium,Medium
+1328,52.0,Medium,High
+1329,52.0,Very High,High
+1330,0.0,High,Very Low
+1331,0.0,High,Very Low
+1332,0.0,Very High,Very Low
+1333,4.0,Medium,Low
+1334,4.0,High,Low
+1335,12.0,Medium,Medium
+1336,52.0,Medium,High
+1337,0.0,Very High,Very Low
+1338,0.0,Very High,Very Low
+1339,0.0,Medium,Very Low
+1340,0.0,Medium,Very Low
+1341,0.0,High,Very Low
+1342,4.0,Low,Low
+1343,12.0,Medium,Medium
+1344,12.0,Medium,Medium
+1345,0.0,Low,Very Low
+1346,52.0,Low,High
+1347,0.0,Very High,Very Low
+1348,12.0,Very High,Medium
+1349,0.0,Medium,Very Low
+1350,0.0,Low,Very Low
+1351,0.0,High,Very Low
+1352,4.0,Low,Low
+1353,0.0,Very High,Very Low
+1354,0.0,Very High,Very Low
+1355,4.0,Medium,Low
+1356,0.0,Very High,Very Low
+1357,0.0,High,Very Low
+1358,4.0,High,Low
+1359,0.0,Low,Very Low
+1360,0.0,High,Very Low
+1361,0.0,Medium,Very Low
+1362,12.0,Low,Medium
+1363,52.0,Medium,High
+1364,4.0,Very High,Low
+1365,0.0,High,Very Low
+1366,0.0,High,Very Low
+1367,0.0,Medium,Very Low
+1368,4.0,High,Low
+1369,52.0,Low,High
+1370,0.0,High,Very Low
+1371,0.0,High,Very Low
+1372,12.0,High,Medium
+1373,0.0,High,Very Low
+1374,4.0,Medium,Low
+1375,4.0,Very High,Low
+1376,0.0,Low,Very Low
+1377,0.0,High,Very Low
+1378,12.0,Medium,Medium
+1379,52.0,Medium,High
+1380,0.0,High,Very Low
+1381,0.0,Low,Very Low
+1382,4.0,Very High,Low
+1383,4.0,Medium,Low
+1384,12.0,Medium,Medium
+1385,52.0,Very High,High
+1386,0.0,High,Very Low
+1387,4.0,Medium,Low
+1388,12.0,Very High,Medium
+1389,4.0,Low,Low
+1390,0.0,High,Very Low
+1391,52.0,Low,High
+1392,0.0,Low,Very Low
+1393,0.0,Medium,Very Low
+1394,0.0,Medium,Very Low
+1395,52.0,Medium,High
+1396,0.0,Low,Very Low
+1397,12.0,Low,Medium
+1398,0.0,High,Very Low
+1399,52.0,Medium,High
+1400,0.0,High,Very Low
+1401,0.0,Low,Very Low
+1402,52.0,Medium,High
+1403,12.0,Low,Medium
+1404,0.0,Low,Very Low
+1405,52.0,Low,High
+1406,12.0,Very High,Medium
+1407,12.0,Medium,Medium
+1408,0.0,High,Very Low
+1409,52.0,Medium,High
+1410,0.0,Medium,Very Low
+1411,0.0,Very High,Very Low
+1412,4.0,Low,Low
+1413,0.0,Very High,Very Low
+1414,4.0,High,Low
+1415,0.0,Medium,Very Low
+1416,0.0,Very High,Very Low
+1417,4.0,Medium,Low
+1418,0.0,Low,Very Low
+1419,0.0,High,Very Low
+1420,4.0,High,Low
+1421,0.0,Medium,Very Low
+1422,0.0,Very High,Very Low
+1423,0.0,Low,Very Low
+1424,0.0,Medium,Very Low
+1425,0.0,Low,Very Low
+1426,0.0,Medium,Very Low
+1427,0.0,Low,Very Low
+1428,0.0,Very High,Very Low
+1429,4.0,Very High,Low
+1430,0.0,Low,Very Low
+1431,0.0,Low,Very Low
+1432,4.0,Very High,Low
+1433,4.0,Low,Low
+1434,52.0,Medium,High
+1435,0.0,High,Very Low
+1436,52.0,Very High,High
+1437,0.0,Very High,Very Low
+1438,0.0,Very High,Very Low
+1439,12.0,Low,Medium
+1440,0.0,Medium,Very Low
+1441,12.0,High,Medium
+1442,0.0,Low,Very Low
+1443,0.0,Very High,Very Low
+1444,12.0,Medium,Medium
+1445,4.0,Low,Low
+1446,0.0,Medium,Very Low
+1447,4.0,Low,Low
+1448,12.0,Medium,Medium
+1449,0.0,Very High,Very Low
+1450,0.0,Medium,Very Low
+1451,4.0,Medium,Low
+1452,4.0,Low,Low
+1453,4.0,Low,Low
+1454,0.0,Very High,Very Low
+1455,0.0,Medium,Very Low
+1456,0.0,High,Very Low
+1457,0.0,Very High,Very Low
+1458,0.0,Medium,Very Low
+1459,52.0,Low,High
+1460,0.0,Low,Very Low
+1461,0.0,Very High,Very Low
+1462,4.0,Very High,Low
+1463,4.0,Very High,Low
+1464,12.0,Medium,Medium
+1465,4.0,Very High,Low
+1466,0.0,High,Very Low
+1467,0.0,High,Very Low
+1468,0.0,Low,Very Low
+1469,0.0,Low,Very Low
+1470,0.0,Very High,Very Low
+1471,0.0,Low,Very Low
+1472,0.0,High,Very Low
+1473,52.0,Low,High
+1474,0.0,High,Very Low
+1475,12.0,High,Medium
+1476,12.0,High,Medium
+1477,12.0,Medium,Medium
+1478,0.0,Low,Very Low
+1479,0.0,Low,Very Low
+1480,52.0,Very High,High
+1481,4.0,High,Low
+1482,4.0,Low,Low
+1483,52.0,High,High
+1484,0.0,High,Very Low
+1485,0.0,Medium,Very Low
+1486,0.0,Medium,Very Low
+1487,0.0,High,Very Low
+1488,0.0,Medium,Very Low
+1489,52.0,Medium,High
+1490,4.0,Low,Low
+1491,0.0,Medium,Very Low
+1492,4.0,Medium,Low
+1493,4.0,Low,Low
+1494,4.0,Medium,Low
+1495,0.0,High,Very Low
+1496,52.0,Low,High
+1497,0.0,Very High,Very Low
+1498,0.0,Low,Very Low
+1499,0.0,Low,Very Low
+1500,0.0,Very High,Very Low
+1501,12.0,High,Medium
+1502,0.0,Medium,Very Low
+1503,0.0,High,Very Low
+1504,4.0,Low,Low
+1505,12.0,High,Medium
+1506,12.0,Low,Medium
+1507,4.0,Low,Low
+1508,0.0,Very High,Very Low
+1509,0.0,Very High,Very Low
+1510,0.0,Medium,Very Low
+1511,0.0,Low,Very Low
+1512,52.0,Very High,High
+1513,0.0,Low,Very Low
+1514,12.0,Low,Medium
+1515,52.0,Very High,High
+1516,52.0,Very High,High
+1517,0.0,High,Very Low
+1518,4.0,Medium,Low
+1519,0.0,High,Very Low
+1520,52.0,High,High
+1521,4.0,High,Low
+1522,52.0,Medium,High
+1523,12.0,High,Medium
+1524,0.0,Very High,Very Low
+1525,0.0,High,Very Low
+1526,0.0,Low,Very Low
+1527,12.0,Low,Medium
+1528,0.0,High,Very Low
+1529,0.0,High,Very Low
+1530,0.0,High,Very Low
+1531,4.0,Low,Low
+1532,0.0,Very High,Very Low
+1533,0.0,Medium,Very Low
+1534,4.0,Medium,Low
+1535,0.0,High,Very Low
+1536,12.0,High,Medium
+1537,4.0,Very High,Low
+1538,0.0,Very High,Very Low
+1539,0.0,High,Very Low
+1540,0.0,Medium,Very Low
+1541,12.0,Very High,Medium
+1542,0.0,High,Very Low
+1543,52.0,Medium,High
+1544,0.0,Very High,Very Low
+1545,0.0,Low,Very Low
+1546,0.0,Medium,Very Low
+1547,0.0,Medium,Very Low
+1548,4.0,Medium,Low
+1549,52.0,Low,High
+1550,0.0,Medium,Very Low
+1551,4.0,Low,Low
+1552,12.0,Low,Medium
+1553,12.0,Medium,Medium
+1554,4.0,Medium,Low
+1555,0.0,Medium,Very Low
+1556,4.0,Medium,Low
+1557,4.0,Medium,Low
+1558,4.0,Low,Low
+1559,0.0,High,Very Low
+1560,0.0,Very High,Very Low
+1561,52.0,Very High,High
+1562,4.0,Low,Low
+1563,0.0,High,Very Low
+1564,52.0,Medium,High
+1565,0.0,Low,Very Low
+1566,0.0,Very High,Very Low
+1567,0.0,Very High,Very Low
+1568,12.0,Low,Medium
+1569,12.0,High,Medium
+1570,52.0,High,High
+1571,0.0,Medium,Very Low
+1572,0.0,Very High,Very Low
+1573,12.0,Very High,Medium
+1574,52.0,Low,High
+1575,0.0,Low,Very Low
+1576,0.0,Low,Very Low
+1577,12.0,High,Medium
+1578,0.0,Low,Very Low
+1579,4.0,Very High,Low
+1580,12.0,High,Medium
+1581,0.0,High,Very Low
+1582,4.0,High,Low
+1583,12.0,Medium,Medium
+1584,0.0,Very High,Very Low
+1585,4.0,Very High,Low
+1586,0.0,Low,Very Low
+1587,52.0,High,High
+1588,0.0,Very High,Very Low
+1589,12.0,Low,Medium
+1590,52.0,High,High
+1591,0.0,High,Very Low
+1592,0.0,Very High,Very Low
+1593,0.0,Very High,Very Low
+1594,12.0,Very High,Medium
+1595,0.0,Medium,Very Low
+1596,0.0,Low,Very Low
+1597,12.0,Low,Medium
+1598,4.0,Low,Low
+1599,0.0,Very High,Very Low
+1600,0.0,Medium,Very Low
+1601,52.0,Low,High
+1602,12.0,Medium,Medium
+1603,0.0,Medium,Very Low
+1604,0.0,Very High,Very Low
+1605,0.0,Very High,Very Low
+1606,0.0,Medium,Very Low
+1607,0.0,Low,Very Low
+1608,4.0,High,Low
+1609,0.0,Medium,Very Low
+1610,12.0,Very High,Medium
+1611,0.0,Low,Very Low
+1612,12.0,Low,Medium
+1613,12.0,High,Medium
+1614,0.0,Low,Very Low
+1615,0.0,Medium,Very Low
+1616,0.0,High,Very Low
+1617,4.0,Medium,Low
+1618,0.0,High,Very Low
+1619,4.0,High,Low
+1620,0.0,High,Very Low
+1621,0.0,Medium,Very Low
+1622,0.0,Medium,Very Low
+1623,0.0,Medium,Very Low
+1624,0.0,Medium,Very Low
+1625,0.0,Low,Very Low
+1626,0.0,Medium,Very Low
+1627,0.0,Low,Very Low
+1628,0.0,Low,Very Low
+1629,12.0,High,Medium
+1630,4.0,Very High,Low
+1631,0.0,Medium,Very Low
+1632,0.0,Low,Very Low
+1633,0.0,Low,Very Low
+1634,0.0,High,Very Low
+1635,0.0,Low,Very Low
+1636,0.0,Low,Very Low
+1637,0.0,Low,Very Low
+1638,0.0,Low,Very Low
+1639,52.0,Medium,High
+1640,0.0,High,Very Low
+1641,52.0,Medium,High
+1642,0.0,Low,Very Low
+1643,0.0,High,Very Low
+1644,12.0,High,Medium
+1645,12.0,Very High,Medium
+1646,0.0,Low,Very Low
+1647,0.0,High,Very Low
+1648,4.0,High,Low
+1649,12.0,High,Medium
+1650,4.0,High,Low
+1651,0.0,Low,Very Low
+1652,12.0,High,Medium
+1653,0.0,Low,Very Low
+1654,0.0,Very High,Very Low
+1655,4.0,Low,Low
+1656,12.0,High,Medium
+1657,0.0,Medium,Very Low
+1658,0.0,Low,Very Low
+1659,52.0,High,High
+1660,0.0,Low,Very Low
+1661,12.0,Medium,Medium
+1662,4.0,Very High,Low
+1663,0.0,Low,Very Low
+1664,0.0,Low,Very Low
+1665,52.0,Medium,High
+1666,12.0,Medium,Medium
+1667,0.0,High,Very Low
+1668,0.0,Medium,Very Low
+1669,0.0,Low,Very Low
+1670,4.0,Medium,Low
+1671,52.0,High,High
+1672,52.0,Low,High
+1673,4.0,High,Low
+1674,0.0,High,Very Low
+1675,0.0,Medium,Very Low
+1676,0.0,Very High,Very Low
+1677,52.0,Medium,High
+1678,52.0,Low,High
+1679,0.0,High,Very Low
+1680,0.0,Medium,Very Low
+1681,0.0,Low,Very Low
+1682,0.0,Very High,Very Low
+1683,0.0,Very High,Very Low
+1684,4.0,Medium,Low
+1685,52.0,Very High,High
+1686,0.0,Medium,Very Low
+1687,0.0,High,Very Low
+1688,0.0,High,Very Low
+1689,0.0,Low,Very Low
+1690,12.0,High,Medium
+1691,0.0,Low,Very Low
+1692,0.0,High,Very Low
+1693,0.0,High,Very Low
+1694,0.0,Very High,Very Low
+1695,0.0,High,Very Low
+1696,0.0,Very High,Very Low
+1697,0.0,High,Very Low
+1698,0.0,Very High,Very Low
+1699,4.0,Medium,Low
+1700,0.0,High,Very Low
+1701,12.0,High,Medium
+1702,0.0,Medium,Very Low
+1703,52.0,Very High,High
+1704,0.0,Low,Very Low
+1705,0.0,Low,Very Low
+1706,0.0,Low,Very Low
+1707,0.0,Very High,Very Low
+1708,0.0,High,Very Low
+1709,4.0,Medium,Low
+1710,0.0,Very High,Very Low
+1711,4.0,Medium,Low
+1712,12.0,Very High,Medium
+1713,0.0,Very High,Very Low
+1714,4.0,Low,Low
+1715,12.0,High,Medium
+1716,0.0,High,Very Low
+1717,0.0,Medium,Very Low
+1718,0.0,Medium,Very Low
+1719,0.0,Very High,Very Low
+1720,4.0,Low,Low
+1721,0.0,Very High,Very Low
+1722,12.0,Low,Medium
+1723,0.0,Medium,Very Low
+1724,0.0,Low,Very Low
+1725,52.0,High,High
+1726,4.0,Low,Low
+1727,52.0,Low,High
+1728,12.0,Medium,Medium
+1729,0.0,Medium,Very Low
+1730,0.0,Low,Very Low
+1731,52.0,Low,High
+1732,12.0,Very High,Medium
+1733,0.0,Medium,Very Low
+1734,0.0,Very High,Very Low
+1735,4.0,Very High,Low
+1736,0.0,Low,Very Low
+1737,4.0,High,Low
+1738,0.0,Very High,Very Low
+1739,52.0,High,High
+1740,52.0,Very High,High
+1741,0.0,Low,Very Low
+1742,12.0,Medium,Medium
+1743,0.0,High,Very Low
+1744,52.0,High,High
+1745,52.0,High,High
+1746,52.0,Low,High
+1747,0.0,Medium,Very Low
+1748,4.0,Low,Low
+1749,0.0,Very High,Very Low
+1750,0.0,High,Very Low
+1751,0.0,Very High,Very Low
+1752,0.0,Medium,Very Low
+1753,4.0,Low,Low
+1754,0.0,Low,Very Low
+1755,0.0,Very High,Very Low
+1756,12.0,Low,Medium
+1757,52.0,Medium,High
+1758,0.0,Very High,Very Low
+1759,0.0,Medium,Very Low
+1760,52.0,Medium,High
+1761,52.0,Medium,High
+1762,52.0,Very High,High
+1763,0.0,Medium,Very Low
+1764,0.0,Very High,Very Low
+1765,4.0,Medium,Low
+1766,4.0,Very High,Low
+1767,0.0,Medium,Very Low
+1768,0.0,Very High,Very Low
+1769,0.0,Medium,Very Low
+1770,12.0,High,Medium
+1771,52.0,Low,High
+1772,0.0,Very High,Very Low
+1773,0.0,Low,Very Low
+1774,0.0,Very High,Very Low
+1775,52.0,High,High
+1776,0.0,Medium,Very Low
+1777,0.0,High,Very Low
+1778,0.0,Medium,Very Low
+1779,0.0,Very High,Very Low
+1780,52.0,High,High
+1781,52.0,High,High
+1782,4.0,Low,Low
+1783,0.0,Very High,Very Low
+1784,12.0,Medium,Medium
+1785,4.0,Low,Low
+1786,12.0,Low,Medium
+1787,12.0,Low,Medium
+1788,4.0,Low,Low
+1789,0.0,Medium,Very Low
+1790,4.0,Low,Low
+1791,0.0,Low,Very Low
+1792,0.0,Very High,Very Low
+1793,0.0,Medium,Very Low
+1794,0.0,Very High,Very Low
+1795,0.0,Medium,Very Low
+1796,0.0,Low,Very Low
+1797,52.0,Low,High
+1798,52.0,Low,High
+1799,52.0,Very High,High
+1800,52.0,Medium,High
+1801,52.0,Medium,High
+1802,0.0,Medium,Very Low
+1803,0.0,Very High,Very Low
+1804,0.0,Very High,Very Low
+1805,52.0,Medium,High
+1806,52.0,High,High
+1807,0.0,High,Very Low
+1808,0.0,Medium,Very Low
+1809,12.0,High,Medium
+1810,0.0,Very High,Very Low
+1811,0.0,Low,Very Low
+1812,0.0,High,Very Low
+1813,0.0,High,Very Low
+1814,52.0,High,High
+1815,4.0,Very High,Low
+1816,0.0,High,Very Low
+1817,52.0,High,High
+1818,52.0,Low,High
+1819,0.0,Low,Very Low
+1820,4.0,Very High,Low
+1821,12.0,Very High,Medium
+1822,4.0,Medium,Low
+1823,0.0,Very High,Very Low
+1824,0.0,Medium,Very Low
+1825,12.0,Medium,Medium
+1826,52.0,High,High
+1827,0.0,Medium,Very Low
+1828,52.0,Low,High
+1829,0.0,High,Very Low
+1830,4.0,Very High,Low
+1831,0.0,High,Very Low
+1832,0.0,High,Very Low
+1833,12.0,Low,Medium
+1834,0.0,Medium,Very Low
+1835,0.0,Low,Very Low
+1836,4.0,High,Low
+1837,12.0,Medium,Medium
+1838,12.0,High,Medium
+1839,4.0,Low,Low
+1840,0.0,High,Very Low
+1841,0.0,Very High,Very Low
+1842,0.0,Medium,Very Low
+1843,0.0,High,Very Low
+1844,12.0,High,Medium
+1845,0.0,Low,Very Low
+1846,4.0,High,Low
+1847,4.0,Medium,Low
+1848,52.0,Very High,High
+1849,0.0,High,Very Low
+1850,12.0,Medium,Medium
+1851,52.0,High,High
+1852,0.0,High,Very Low
+1853,52.0,High,High
+1854,0.0,High,Very Low
+1855,0.0,High,Very Low
+1856,0.0,High,Very Low
+1857,0.0,Medium,Very Low
+1858,12.0,Very High,Medium
+1859,0.0,High,Very Low
+1860,0.0,Low,Very Low
+1861,12.0,High,Medium
+1862,12.0,Medium,Medium
+1863,0.0,Low,Very Low
+1864,12.0,Low,Medium
+1865,4.0,High,Low
+1866,12.0,High,Medium
+1867,0.0,Medium,Very Low
+1868,4.0,Medium,Low
+1869,0.0,Medium,Very Low
+1870,0.0,High,Very Low
+1871,0.0,Very High,Very Low
+1872,0.0,Very High,Very Low
+1873,12.0,High,Medium
+1874,52.0,Medium,High
+1875,52.0,Low,High
+1876,4.0,High,Low
+1877,4.0,Low,Low
+1878,0.0,High,Very Low
+1879,12.0,Low,Medium
+1880,0.0,Low,Very Low
+1881,12.0,Low,Medium
+1882,0.0,Medium,Very Low
+1883,4.0,Medium,Low
+1884,0.0,Medium,Very Low
+1885,0.0,Low,Very Low
+1886,12.0,Medium,Medium
+1887,0.0,Very High,Very Low
+1888,12.0,Medium,Medium
+1889,52.0,Very High,High
+1890,52.0,Medium,High
+1891,52.0,Medium,High
+1892,4.0,High,Low
+1893,52.0,Low,High
+1894,0.0,Low,Very Low
+1895,0.0,Very High,Very Low
+1896,12.0,High,Medium
+1897,12.0,Medium,Medium
+1898,0.0,Very High,Very Low
+1899,12.0,Very High,Medium
+1900,52.0,Medium,High
+1901,4.0,Very High,Low
+1902,4.0,High,Low
+1903,12.0,Low,Medium
+1904,52.0,High,High
+1905,12.0,High,Medium
+1906,0.0,Low,Very Low
+1907,0.0,Low,Very Low
+1908,0.0,High,Very Low
+1909,0.0,High,Very Low
+1910,12.0,Very High,Medium
+1911,4.0,Low,Low
+1912,0.0,High,Very Low
+1913,0.0,Medium,Very Low
+1914,0.0,Medium,Very Low
+1915,0.0,Very High,Very Low
+1916,52.0,High,High
+1917,0.0,Medium,Very Low
+1918,0.0,High,Very Low
+1919,12.0,Low,Medium
+1920,0.0,Medium,Very Low
+1921,0.0,Very High,Very Low
+1922,0.0,Low,Very Low
+1923,12.0,High,Medium
+1924,0.0,Low,Very Low
+1925,4.0,High,Low
+1926,0.0,Low,Very Low
+1927,0.0,Very High,Very Low
+1928,0.0,Low,Very Low
+1929,52.0,Very High,High
+1930,4.0,Low,Low
+1931,52.0,Medium,High
+1932,0.0,Medium,Very Low
+1933,0.0,Low,Very Low
+1934,0.0,High,Very Low
+1935,0.0,Medium,Very Low
+1936,0.0,High,Very Low
+1937,0.0,Medium,Very Low
+1938,12.0,Medium,Medium
+1939,0.0,Low,Very Low
+1940,0.0,Medium,Very Low
+1941,0.0,Very High,Very Low
+1942,4.0,Very High,Low
+1943,12.0,Low,Medium
+1944,0.0,Medium,Very Low
+1945,0.0,Medium,Very Low
+1946,0.0,Low,Very Low
+1947,4.0,Medium,Low
+1948,12.0,Low,Medium
+1949,0.0,Low,Very Low
+1950,4.0,High,Low
+1951,0.0,High,Very Low
+1952,0.0,Medium,Very Low
+1953,0.0,Very High,Very Low
+1954,0.0,Low,Very Low
+1955,4.0,High,Low
+1956,12.0,Medium,Medium
+1957,0.0,Low,Very Low
+1958,0.0,Medium,Very Low
+1959,4.0,High,Low
+1960,0.0,Very High,Very Low
+1961,0.0,High,Very Low
+1962,4.0,Medium,Low
+1963,0.0,Medium,Very Low
+1964,52.0,Low,High
+1965,12.0,Medium,Medium
+1966,4.0,Very High,Low
+1967,0.0,Very High,Very Low
+1968,0.0,High,Very Low
+1969,52.0,High,High
+1970,0.0,Low,Very Low
+1971,0.0,Very High,Very Low
+1972,12.0,Low,Medium
+1973,0.0,Low,Very Low
+1974,0.0,Low,Very Low
+1975,0.0,Medium,Very Low
+1976,4.0,High,Low
+1977,0.0,Medium,Very Low
+1978,0.0,Medium,Very Low
+1979,4.0,High,Low
+1980,0.0,Very High,Very Low
+1981,0.0,Very High,Very Low
+1982,4.0,Very High,Low
+1983,12.0,High,Medium
+1984,4.0,Very High,Low
+1985,0.0,Medium,Very Low
+1986,0.0,Very High,Very Low
+1987,4.0,Medium,Low
+1988,4.0,Low,Low
+1989,52.0,High,High
+1990,0.0,Medium,Very Low
+1991,0.0,Very High,Very Low
+1992,0.0,Low,Very Low
+1993,12.0,Very High,Medium
+1994,52.0,Very High,High
+1995,52.0,High,High
+1996,4.0,High,Low
+1997,0.0,Low,Very Low
+1998,0.0,Low,Very Low
+1999,4.0,Medium,Low
+2000,12.0,Very High,Medium
+2001,0.0,Low,Very Low
+2002,0.0,Very High,Very Low
+2003,0.0,High,Very Low
+2004,4.0,High,Low
+2005,0.0,High,Very Low
+2006,0.0,Very High,Very Low
+2007,0.0,Very High,Very Low
+2008,4.0,Low,Low
+2009,0.0,Medium,Very Low
+2010,0.0,Very High,Very Low
+2011,0.0,Low,Very Low
+2012,12.0,Very High,Medium
+2013,0.0,Medium,Very Low
+2014,4.0,High,Low
+2015,0.0,Low,Very Low
+2016,0.0,Very High,Very Low
+2017,0.0,Medium,Very Low
+2018,0.0,Low,Very Low
+2019,52.0,Very High,High
+2020,0.0,High,Very Low
+2021,4.0,Low,Low
+2022,4.0,Low,Low
+2023,0.0,Low,Very Low
+2024,0.0,High,Very Low
+2025,52.0,Low,High
+2026,0.0,Low,Very Low
+2027,0.0,Low,Very Low
+2028,0.0,High,Very Low
+2029,0.0,Very High,Very Low
+2030,4.0,Low,Low
+2031,12.0,High,Medium
+2032,12.0,Medium,Medium
+2033,0.0,Low,Very Low
+2034,0.0,Medium,Very Low
+2035,12.0,Low,Medium
+2036,52.0,High,High
+2037,52.0,High,High
+2038,0.0,Very High,Very Low
+2039,0.0,High,Very Low
+2040,0.0,Medium,Very Low
+2041,4.0,Low,Low
+2042,0.0,Low,Very Low
+2043,12.0,Medium,Medium
+2044,52.0,Low,High
+2045,0.0,High,Very Low
+2046,4.0,Low,Low
+2047,0.0,Low,Very Low
+2048,0.0,Very High,Very Low
+2049,4.0,High,Low
+2050,0.0,Low,Very Low
+2051,0.0,Very High,Very Low
+2052,12.0,Very High,Medium
+2053,0.0,Medium,Very Low
+2054,0.0,Medium,Very Low
+2055,0.0,Medium,Very Low
+2056,52.0,Low,High
+2057,12.0,Medium,Medium
+2058,0.0,Low,Very Low
+2059,4.0,Very High,Low
+2060,52.0,Medium,High
+2061,4.0,High,Low
+2062,0.0,High,Very Low
+2063,4.0,High,Low
+2064,12.0,Very High,Medium
+2065,12.0,Very High,Medium
+2066,0.0,Medium,Very Low
+2067,0.0,Very High,Very Low
+2068,0.0,Low,Very Low
+2069,12.0,High,Medium
+2070,4.0,Very High,Low
+2071,12.0,Very High,Medium
+2072,4.0,Very High,Low
+2073,52.0,High,High
+2074,0.0,Low,Very Low
+2075,0.0,Medium,Very Low
+2076,12.0,Low,Medium
+2077,0.0,Low,Very Low
+2078,0.0,Low,Very Low
+2079,52.0,Medium,High
+2080,4.0,Low,Low
+2081,0.0,Medium,Very Low
+2082,0.0,High,Very Low
+2083,0.0,Very High,Very Low
+2084,0.0,Medium,Very Low
+2085,4.0,Very High,Low
+2086,52.0,Medium,High
+2087,0.0,Very High,Very Low
+2088,52.0,Very High,High
+2089,0.0,Very High,Very Low
+2090,0.0,Medium,Very Low
+2091,12.0,High,Medium
+2092,4.0,Very High,Low
+2093,52.0,Medium,High
+2094,0.0,Very High,Very Low
+2095,0.0,Low,Very Low
+2096,0.0,High,Very Low
+2097,0.0,Medium,Very Low
+2098,52.0,Medium,High
+2099,4.0,Low,Low
+2100,0.0,High,Very Low
+2101,0.0,Low,Very Low
+2102,0.0,Low,Very Low
+2103,12.0,Low,Medium
+2104,52.0,Very High,High
+2105,52.0,Very High,High
+2106,0.0,Low,Very Low
+2107,0.0,Low,Very Low
+2108,4.0,High,Low
+2109,4.0,Medium,Low
+2110,0.0,Low,Very Low
+2111,0.0,Very High,Very Low
+2112,0.0,Very High,Very Low
+2113,0.0,High,Very Low
+2114,0.0,Medium,Very Low
+2115,0.0,Medium,Very Low
+2116,0.0,Very High,Very Low
+2117,0.0,Low,Very Low
+2118,0.0,Low,Very Low
+2119,4.0,Medium,Low
+2120,0.0,Medium,Very Low
+2121,4.0,Very High,Low
+2122,12.0,High,Medium
+2123,52.0,Low,High
+2124,0.0,High,Very Low
+2125,4.0,Medium,Low
+2126,4.0,Very High,Low
+2127,12.0,Low,Medium
+2128,52.0,Medium,High
+2129,52.0,Medium,High
+2130,0.0,Medium,Very Low
+2131,0.0,High,Very Low
+2132,0.0,Medium,Very Low
+2133,52.0,Very High,High
+2134,0.0,Low,Very Low
+2135,0.0,Medium,Very Low
+2136,0.0,Very High,Very Low
+2137,0.0,Very High,Very Low
+2138,0.0,Medium,Very Low
+2139,4.0,Medium,Low
+2140,52.0,Very High,High
+2141,0.0,Very High,Very Low
+2142,0.0,Very High,Very Low
+2143,4.0,Low,Low
+2144,0.0,High,Very Low
+2145,4.0,Low,Low
+2146,0.0,High,Very Low
+2147,0.0,Low,Very Low
+2148,0.0,Medium,Very Low
+2149,0.0,Medium,Very Low
+2150,52.0,Low,High
+2151,52.0,Medium,High
+2152,12.0,Medium,Medium
+2153,0.0,Medium,Very Low
+2154,0.0,Very High,Very Low
+2155,0.0,High,Very Low
+2156,12.0,Medium,Medium
+2157,0.0,Very High,Very Low
+2158,0.0,High,Very Low
+2159,0.0,Very High,Very Low
+2160,0.0,Medium,Very Low
+2161,0.0,Very High,Very Low
+2162,0.0,High,Very Low
+2163,52.0,Medium,High
+2164,12.0,Medium,Medium
+2165,0.0,Low,Very Low
+2166,0.0,Medium,Very Low
+2167,0.0,Very High,Very Low
+2168,0.0,Medium,Very Low
+2169,4.0,High,Low
+2170,0.0,Medium,Very Low
+2171,0.0,Low,Very Low
+2172,0.0,Very High,Very Low
+2173,0.0,Very High,Very Low
+2174,4.0,Very High,Low
+2175,0.0,Medium,Very Low
+2176,0.0,Medium,Very Low
+2177,4.0,Very High,Low
+2178,0.0,Very High,Very Low
+2179,0.0,Very High,Very Low
+2180,12.0,Very High,Medium
+2181,4.0,Low,Low
+2182,0.0,High,Very Low
+2183,0.0,Very High,Very Low
+2184,12.0,Low,Medium
+2185,0.0,Low,Very Low
+2186,0.0,Low,Very Low
+2187,0.0,Low,Very Low
+2188,0.0,High,Very Low
+2189,52.0,Medium,High
+2190,0.0,Very High,Very Low
+2191,0.0,High,Very Low
+2192,0.0,High,Very Low
+2193,12.0,Low,Medium
+2194,12.0,High,Medium
+2195,4.0,Low,Low
+2196,12.0,High,Medium
+2197,52.0,Medium,High
+2198,12.0,Very High,Medium
+2199,12.0,High,Medium
+2200,12.0,Medium,Medium
+2201,0.0,Medium,Very Low
+2202,0.0,Low,Very Low
+2203,52.0,Low,High
+2204,4.0,High,Low
+2205,12.0,Medium,Medium
+2206,52.0,High,High
+2207,0.0,Medium,Very Low
+2208,0.0,Low,Very Low
+2209,12.0,Medium,Medium
+2210,4.0,Low,Low
+2211,0.0,Low,Very Low
+2212,0.0,Very High,Very Low
+2213,4.0,High,Low
+2214,4.0,Very High,Low
+2215,52.0,Very High,High
+2216,0.0,Very High,Very Low
+2217,0.0,Low,Very Low
+2218,0.0,Low,Very Low
+2219,4.0,High,Low
+2220,0.0,Very High,Very Low
+2221,0.0,High,Very Low
+2222,0.0,Very High,Very Low
+2223,52.0,High,High
+2224,4.0,High,Low
+2225,4.0,Low,Low
+2226,0.0,High,Very Low
+2227,0.0,High,Very Low
+2228,0.0,High,Very Low
+2229,52.0,Medium,High
+2230,12.0,Very High,Medium
+2231,0.0,Low,Very Low
+2232,52.0,Medium,High
+2233,0.0,High,Very Low
+2234,12.0,Low,Medium
+2235,52.0,High,High
+2236,0.0,Very High,Very Low
+2237,0.0,Very High,Very Low
+2238,0.0,Low,Very Low
+2239,52.0,Very High,High
+2240,0.0,Very High,Very Low
+2241,0.0,High,Very Low
+2242,0.0,High,Very Low
+2243,0.0,High,Very Low
+2244,0.0,Low,Very Low
+2245,0.0,Low,Very Low
+2246,0.0,Very High,Very Low
+2247,0.0,Very High,Very Low
+2248,0.0,Low,Very Low
+2249,0.0,High,Very Low
+2250,52.0,Medium,High
+2251,52.0,Very High,High
+2252,12.0,Very High,Medium
+2253,0.0,Very High,Very Low
+2254,12.0,Low,Medium
+2255,0.0,High,Very Low
+2256,4.0,Low,Low
+2257,4.0,Low,Low
+2258,0.0,Low,Very Low
+2259,0.0,High,Very Low
+2260,0.0,Very High,Very Low
+2261,4.0,Very High,Low
+2262,0.0,High,Very Low
+2263,12.0,Low,Medium
+2264,4.0,Medium,Low
+2265,12.0,Very High,Medium
+2266,4.0,Very High,Low
+2267,52.0,Medium,High
+2268,52.0,Medium,High
+2269,12.0,Low,Medium
+2270,0.0,Low,Very Low
+2271,52.0,High,High
+2272,4.0,Very High,Low
+2273,12.0,Low,Medium
+2274,0.0,Very High,Very Low
+2275,0.0,Low,Very Low
+2276,52.0,Low,High
+2277,52.0,Very High,High
+2278,4.0,Medium,Low
+2279,0.0,Low,Very Low
+2280,4.0,High,Low
+2281,0.0,Low,Very Low
+2282,0.0,Low,Very Low
+2283,0.0,Very High,Very Low
+2284,0.0,Medium,Very Low
+2285,0.0,High,Very Low
+2286,0.0,Very High,Very Low
+2287,4.0,Low,Low
+2288,0.0,Medium,Very Low
+2289,52.0,Very High,High
+2290,52.0,Very High,High
+2291,4.0,Medium,Low
+2292,4.0,Low,Low
+2293,12.0,Low,Medium
+2294,0.0,High,Very Low
+2295,0.0,Very High,Very Low
+2296,4.0,Low,Low
+2297,0.0,Very High,Very Low
+2298,4.0,Very High,Low
+2299,0.0,Very High,Very Low
+2300,0.0,Medium,Very Low
+2301,12.0,Very High,Medium
+2302,0.0,Low,Very Low
+2303,12.0,Low,Medium
+2304,0.0,High,Very Low
+2305,0.0,High,Very Low
+2306,52.0,High,High
+2307,0.0,High,Very Low
+2308,0.0,Very High,Very Low
+2309,4.0,High,Low
+2310,4.0,Very High,Low
+2311,12.0,High,Medium
+2312,0.0,Low,Very Low
+2313,0.0,Low,Very Low
+2314,0.0,Low,Very Low
+2315,0.0,Very High,Very Low
+2316,4.0,High,Low
+2317,0.0,Low,Very Low
+2318,12.0,Low,Medium
+2319,0.0,Low,Very Low
+2320,12.0,Low,Medium
+2321,0.0,Medium,Very Low
+2322,0.0,Low,Very Low
+2323,0.0,Very High,Very Low
+2324,12.0,Very High,Medium
+2325,0.0,Low,Very Low
+2326,52.0,Medium,High
+2327,0.0,High,Very Low
+2328,0.0,Very High,Very Low
+2329,0.0,Low,Very Low
+2330,0.0,Very High,Very Low
+2331,0.0,High,Very Low
+2332,0.0,High,Very Low
+2333,12.0,Medium,Medium
+2334,0.0,High,Very Low
+2335,12.0,High,Medium
+2336,0.0,Low,Very Low
+2337,52.0,Very High,High
+2338,0.0,High,Very Low
+2339,4.0,High,Low
+2340,4.0,High,Low
+2341,0.0,Low,Very Low
+2342,0.0,Low,Very Low
+2343,0.0,Very High,Very Low
+2344,12.0,Medium,Medium
+2345,0.0,Very High,Very Low
+2346,0.0,Low,Very Low
+2347,0.0,High,Very Low
+2348,0.0,High,Very Low
+2349,0.0,Very High,Very Low
+2350,0.0,Low,Very Low
+2351,0.0,Low,Very Low
+2352,0.0,Medium,Very Low
+2353,4.0,Medium,Low
+2354,0.0,High,Very Low
+2355,12.0,High,Medium
+2356,12.0,Low,Medium
+2357,4.0,Medium,Low
+2358,0.0,High,Very Low
+2359,4.0,Very High,Low
+2360,0.0,High,Very Low
+2361,0.0,High,Very Low
+2362,0.0,High,Very Low
+2363,12.0,Medium,Medium
+2364,0.0,High,Very Low
+2365,4.0,Medium,Low
+2366,12.0,Very High,Medium
+2367,0.0,High,Very Low
+2368,0.0,Very High,Very Low
+2369,0.0,Low,Very Low
+2370,12.0,Low,Medium
+2371,52.0,High,High
+2372,0.0,Low,Very Low
+2373,0.0,Low,Very Low
+2374,0.0,Low,Very Low
+2375,12.0,High,Medium
+2376,4.0,High,Low
+2377,52.0,Very High,High
+2378,0.0,Very High,Very Low
+2379,0.0,High,Very Low
+2380,12.0,High,Medium
+2381,0.0,High,Very Low
+2382,0.0,Low,Very Low
+2383,52.0,Medium,High
+2384,0.0,High,Very Low
+2385,4.0,Low,Low
+2386,52.0,Low,High
+2387,12.0,Low,Medium
+2388,12.0,Very High,Medium
+2389,0.0,High,Very Low
+2390,0.0,Very High,Very Low
+2391,0.0,High,Very Low
+2392,4.0,High,Low
+2393,0.0,High,Very Low
+2394,0.0,Very High,Very Low
+2395,0.0,Medium,Very Low
+2396,0.0,Very High,Very Low
+2397,52.0,Very High,High
+2398,12.0,Low,Medium
+2399,0.0,High,Very Low
+2400,12.0,Medium,Medium
+2401,0.0,Very High,Very Low
+2402,0.0,High,Very Low
+2403,52.0,Very High,High
+2404,52.0,Low,High
+2405,0.0,Low,Very Low
+2406,4.0,Very High,Low
+2407,52.0,Medium,High
+2408,0.0,Low,Very Low
+2409,0.0,Medium,Very Low
+2410,0.0,Low,Very Low
+2411,12.0,Medium,Medium
+2412,0.0,Very High,Very Low
+2413,0.0,Medium,Very Low
+2414,52.0,Very High,High
+2415,0.0,Low,Very Low
+2416,52.0,Low,High
+2417,0.0,Very High,Very Low
+2418,0.0,Low,Very Low
+2419,0.0,High,Very Low
+2420,0.0,Medium,Very Low
+2421,0.0,Very High,Very Low
+2422,0.0,Medium,Very Low
+2423,52.0,Very High,High
+2424,0.0,High,Very Low
+2425,0.0,Medium,Very Low
+2426,4.0,Medium,Low
+2427,0.0,Medium,Very Low
+2428,4.0,Low,Low
+2429,0.0,Low,Very Low
+2430,0.0,Medium,Very Low
+2431,4.0,Very High,Low
+2432,0.0,High,Very Low
+2433,12.0,High,Medium
+2434,0.0,High,Very Low
+2435,12.0,Medium,Medium
+2436,0.0,Low,Very Low
+2437,4.0,Low,Low
+2438,52.0,Medium,High
+2439,52.0,Low,High
+2440,0.0,Medium,Very Low
+2441,0.0,Very High,Very Low
+2442,12.0,Low,Medium
+2443,0.0,Very High,Very Low
+2444,0.0,Low,Very Low
+2445,0.0,High,Very Low
+2446,52.0,Very High,High
+2447,12.0,High,Medium
+2448,0.0,Medium,Very Low
+2449,0.0,Low,Very Low
+2450,0.0,Medium,Very Low
+2451,4.0,High,Low
+2452,12.0,Medium,Medium
+2453,0.0,High,Very Low
+2454,0.0,Very High,Very Low
+2455,0.0,High,Very Low
+2456,0.0,Very High,Very Low
+2457,12.0,Very High,Medium
+2458,4.0,Low,Low
+2459,52.0,Very High,High
+2460,52.0,Low,High
+2461,0.0,Low,Very Low
+2462,52.0,Very High,High
+2463,0.0,Very High,Very Low
+2464,0.0,Low,Very Low
+2465,0.0,Very High,Very Low
+2466,52.0,High,High
+2467,0.0,Very High,Very Low
+2468,0.0,High,Very Low
+2469,52.0,Low,High
+2470,0.0,Very High,Very Low
+2471,0.0,High,Very Low
+2472,0.0,Very High,Very Low
+2473,0.0,High,Very Low
+2474,4.0,Very High,Low
+2475,4.0,High,Low
+2476,12.0,Medium,Medium
+2477,12.0,Medium,Medium
+2478,52.0,Medium,High
+2479,0.0,Very High,Very Low
+2480,0.0,Very High,Very Low
+2481,0.0,Very High,Very Low
+2482,52.0,Very High,High
+2483,0.0,Very High,Very Low
+2484,12.0,Very High,Medium
+2485,0.0,Very High,Very Low
+2486,0.0,Medium,Very Low
+2487,0.0,Medium,Very Low
+2488,0.0,Low,Very Low
+2489,12.0,Very High,Medium
+2490,4.0,Low,Low
+2491,0.0,High,Very Low
+2492,12.0,Medium,Medium
+2493,0.0,Very High,Very Low
+2494,0.0,Low,Very Low
+2495,0.0,Low,Very Low
+2496,0.0,Low,Very Low
+2497,52.0,High,High
+2498,0.0,Medium,Very Low
+2499,0.0,Low,Very Low
+2500,4.0,High,Low
+2501,0.0,Very High,Very Low
+2502,0.0,Very High,Very Low
+2503,0.0,Medium,Very Low
+2504,0.0,High,Very Low
+2505,0.0,Very High,Very Low
+2506,4.0,High,Low
+2507,0.0,Very High,Very Low
+2508,0.0,Low,Very Low
+2509,0.0,Very High,Very Low
+2510,4.0,Medium,Low
+2511,52.0,Medium,High
+2512,4.0,Low,Low
+2513,12.0,High,Medium
+2514,0.0,Medium,Very Low
+2515,0.0,Low,Very Low
+2516,12.0,Very High,Medium
+2517,4.0,High,Low
+2518,0.0,Low,Very Low
+2519,0.0,Medium,Very Low
+2520,4.0,Very High,Low
+2521,0.0,Medium,Very Low
+2522,0.0,Low,Very Low
+2523,52.0,Medium,High
+2524,0.0,Low,Very Low
+2525,4.0,Medium,Low
+2526,52.0,High,High
+2527,0.0,Low,Very Low
+2528,0.0,Low,Very Low
+2529,12.0,Medium,Medium
+2530,12.0,High,Medium
+2531,52.0,Very High,High
+2532,0.0,Low,Very Low
+2533,52.0,Very High,High
+2534,0.0,Medium,Very Low
+2535,52.0,Medium,High
+2536,0.0,High,Very Low
+2537,0.0,Low,Very Low
+2538,0.0,Medium,Very Low
+2539,0.0,Low,Very Low
+2540,0.0,High,Very Low
+2541,4.0,Medium,Low
+2542,0.0,Medium,Very Low
+2543,0.0,Low,Very Low
+2544,0.0,Medium,Very Low
+2545,4.0,High,Low
+2546,0.0,Medium,Very Low
+2547,4.0,Low,Low
+2548,52.0,Very High,High
+2549,12.0,High,Medium
+2550,0.0,Medium,Very Low
+2551,0.0,Medium,Very Low
+2552,0.0,Low,Very Low
+2553,0.0,Medium,Very Low
+2554,0.0,Low,Very Low
+2555,0.0,High,Very Low
+2556,52.0,High,High
+2557,4.0,Very High,Low
+2558,0.0,Low,Very Low
+2559,0.0,Low,Very Low
+2560,0.0,High,Very Low
+2561,0.0,High,Very Low
+2562,4.0,Low,Low
+2563,0.0,High,Very Low
+2564,0.0,High,Very Low
+2565,52.0,Very High,High
+2566,4.0,Medium,Low
+2567,4.0,Low,Low
+2568,0.0,Low,Very Low
+2569,0.0,Very High,Very Low
+2570,0.0,High,Very Low
+2571,0.0,Low,Very Low
+2572,0.0,Low,Very Low
+2573,4.0,Medium,Low
+2574,0.0,Very High,Very Low
+2575,0.0,High,Very Low
+2576,0.0,Very High,Very Low
+2577,4.0,Medium,Low
+2578,12.0,Low,Medium
+2579,4.0,Medium,Low
+2580,52.0,Low,High
+2581,4.0,Low,Low
+2582,12.0,High,Medium
+2583,0.0,Very High,Very Low
+2584,52.0,Very High,High
+2585,0.0,Low,Very Low
+2586,52.0,Low,High
+2587,0.0,Low,Very Low
+2588,0.0,Low,Very Low
+2589,0.0,Medium,Very Low
+2590,0.0,Medium,Very Low
+2591,0.0,High,Very Low
+2592,4.0,High,Low
+2593,4.0,Low,Low
+2594,0.0,Low,Very Low
+2595,0.0,High,Very Low
+2596,0.0,Medium,Very Low
+2597,12.0,High,Medium
+2598,0.0,Low,Very Low
+2599,0.0,Very High,Very Low
+2600,12.0,Very High,Medium
+2601,0.0,Very High,Very Low
+2602,12.0,Low,Medium
+2603,4.0,Medium,Low
+2604,0.0,Medium,Very Low
+2605,52.0,Medium,High
+2606,0.0,Very High,Very Low
+2607,0.0,Very High,Very Low
+2608,0.0,Low,Very Low
+2609,0.0,High,Very Low
+2610,0.0,Very High,Very Low
+2611,4.0,Very High,Low
+2612,0.0,Very High,Very Low
+2613,4.0,Low,Low
+2614,12.0,Very High,Medium
+2615,0.0,High,Very Low
+2616,4.0,High,Low
+2617,0.0,Medium,Very Low
+2618,0.0,Very High,Very Low
+2619,12.0,High,Medium
+2620,52.0,Medium,High
+2621,0.0,Low,Very Low
+2622,0.0,Medium,Very Low
+2623,0.0,High,Very Low
+2624,0.0,High,Very Low
+2625,0.0,Medium,Very Low
+2626,52.0,Medium,High
+2627,0.0,Medium,Very Low
+2628,4.0,Low,Low
+2629,0.0,Medium,Very Low
+2630,0.0,Medium,Very Low
+2631,4.0,Very High,Low
+2632,52.0,Medium,High
+2633,0.0,Low,Very Low
+2634,0.0,Very High,Very Low
+2635,0.0,Medium,Very Low
+2636,0.0,High,Very Low
+2637,0.0,Medium,Very Low
+2638,0.0,Low,Very Low
+2639,0.0,Low,Very Low
+2640,4.0,Low,Low
+2641,0.0,High,Very Low
+2642,0.0,Medium,Very Low
+2643,0.0,Very High,Very Low
+2644,12.0,Medium,Medium
+2645,0.0,Very High,Very Low
+2646,0.0,High,Very Low
+2647,0.0,Medium,Very Low
+2648,0.0,Medium,Very Low
+2649,0.0,Very High,Very Low
+2650,0.0,Low,Very Low
+2651,0.0,Low,Very Low
+2652,4.0,Medium,Low
+2653,12.0,Low,Medium
+2654,0.0,Low,Very Low
+2655,0.0,High,Very Low
+2656,0.0,Very High,Very Low
+2657,0.0,High,Very Low
+2658,0.0,High,Very Low
+2659,12.0,Medium,Medium
+2660,0.0,Low,Very Low
+2661,0.0,Very High,Very Low
+2662,0.0,Very High,Very Low
+2663,0.0,Very High,Very Low
+2664,0.0,Medium,Very Low
+2665,52.0,Very High,High
+2666,52.0,High,High
+2667,0.0,Very High,Very Low
+2668,0.0,Medium,Very Low
+2669,4.0,High,Low
+2670,52.0,Low,High
+2671,0.0,Medium,Very Low
+2672,0.0,High,Very Low
+2673,0.0,Low,Very Low
+2674,12.0,Low,Medium
+2675,0.0,Medium,Very Low
+2676,0.0,Low,Very Low
+2677,0.0,High,Very Low
+2678,0.0,Medium,Very Low
+2679,0.0,Very High,Very Low
+2680,4.0,High,Low
+2681,0.0,Low,Very Low
+2682,12.0,Low,Medium
+2683,0.0,High,Very Low
+2684,0.0,Low,Very Low
+2685,0.0,Medium,Very Low
+2686,4.0,Low,Low
+2687,0.0,High,Very Low
+2688,0.0,High,Very Low
+2689,0.0,High,Very Low
+2690,4.0,Low,Low
+2691,52.0,Low,High
+2692,12.0,Low,Medium
+2693,0.0,Very High,Very Low
+2694,4.0,High,Low
+2695,0.0,Low,Very Low
+2696,0.0,Very High,Very Low
+2697,12.0,Low,Medium
+2698,4.0,Medium,Low
+2699,4.0,Medium,Low
+2700,0.0,Very High,Very Low
+2701,52.0,High,High
+2702,0.0,Low,Very Low
+2703,0.0,Low,Very Low
+2704,52.0,Medium,High
+2705,52.0,Medium,High
+2706,0.0,High,Very Low
+2707,4.0,Medium,Low
+2708,52.0,Very High,High
+2709,52.0,Very High,High
+2710,0.0,Medium,Very Low
+2711,0.0,Medium,Very Low
+2712,12.0,Low,Medium
+2713,4.0,Very High,Low
+2714,0.0,Medium,Very Low
+2715,0.0,Medium,Very Low
+2716,0.0,Very High,Very Low
+2717,52.0,Medium,High
+2718,0.0,High,Very Low
+2719,0.0,Very High,Very Low
+2720,12.0,Very High,Medium
+2721,4.0,Medium,Low
+2722,0.0,High,Very Low
+2723,0.0,Very High,Very Low
+2724,0.0,Medium,Very Low
+2725,0.0,Very High,Very Low
+2726,0.0,Very High,Very Low
+2727,0.0,Very High,Very Low
+2728,0.0,Very High,Very Low
+2729,52.0,Low,High
+2730,12.0,High,Medium
+2731,0.0,Low,Very Low
+2732,4.0,Low,Low
+2733,0.0,High,Very Low
+2734,0.0,Very High,Very Low
+2735,0.0,Very High,Very Low
+2736,0.0,Low,Very Low
+2737,0.0,Low,Very Low
+2738,0.0,High,Very Low
+2739,0.0,High,Very Low
+2740,0.0,High,Very Low
+2741,0.0,High,Very Low
+2742,12.0,High,Medium
+2743,0.0,Very High,Very Low
+2744,4.0,Very High,Low
+2745,12.0,High,Medium
+2746,0.0,Very High,Very Low
+2747,0.0,Low,Very Low
+2748,0.0,High,Very Low
+2749,0.0,Very High,Very Low
+2750,0.0,Medium,Very Low
+2751,0.0,High,Very Low
+2752,12.0,Medium,Medium
+2753,0.0,High,Very Low
+2754,4.0,Medium,Low
+2755,0.0,High,Very Low
+2756,0.0,Very High,Very Low
+2757,12.0,Low,Medium
+2758,12.0,Very High,Medium
+2759,0.0,Very High,Very Low
+2760,0.0,Medium,Very Low
+2761,0.0,Very High,Very Low
+2762,0.0,Very High,Very Low
+2763,0.0,Medium,Very Low
+2764,4.0,Medium,Low
+2765,52.0,Medium,High
+2766,4.0,High,Low
+2767,12.0,Very High,Medium
+2768,12.0,Very High,Medium
+2769,0.0,Low,Very Low
+2770,52.0,Very High,High
+2771,4.0,Medium,Low
+2772,0.0,Medium,Very Low
+2773,0.0,Very High,Very Low
+2774,4.0,Very High,Low
+2775,4.0,Medium,Low
+2776,52.0,Low,High
+2777,0.0,High,Very Low
+2778,0.0,Low,Very Low
+2779,0.0,Medium,Very Low
+2780,0.0,High,Very Low
+2781,0.0,High,Very Low
+2782,52.0,Low,High
+2783,0.0,Low,Very Low
+2784,4.0,Low,Low
+2785,0.0,High,Very Low
+2786,12.0,High,Medium
+2787,0.0,Medium,Very Low
+2788,0.0,High,Very Low
+2789,0.0,Very High,Very Low
+2790,0.0,Very High,Very Low
+2791,0.0,High,Very Low
+2792,0.0,Medium,Very Low
+2793,52.0,Medium,High
+2794,0.0,Medium,Very Low
+2795,0.0,Low,Very Low
+2796,0.0,Low,Very Low
+2797,0.0,High,Very Low
+2798,0.0,Medium,Very Low
+2799,52.0,Low,High
+2800,0.0,Very High,Very Low
+2801,0.0,High,Very Low
+2802,0.0,Medium,Very Low
+2803,0.0,Very High,Very Low
+2804,12.0,Medium,Medium
+2805,0.0,High,Very Low
+2806,4.0,Very High,Low
+2807,0.0,Low,Very Low
+2808,0.0,Very High,Very Low
+2809,0.0,High,Very Low
+2810,4.0,Very High,Low
+2811,0.0,Low,Very Low
+2812,4.0,Very High,Low
+2813,0.0,Very High,Very Low
+2814,4.0,Medium,Low
+2815,12.0,Low,Medium
+2816,0.0,High,Very Low
+2817,52.0,Low,High
+2818,52.0,High,High
+2819,0.0,High,Very Low
+2820,12.0,Low,Medium
+2821,0.0,Very High,Very Low
+2822,12.0,High,Medium
+2823,4.0,Low,Low
+2824,0.0,High,Very Low
+2825,4.0,Very High,Low
+2826,0.0,High,Very Low
+2827,0.0,Medium,Very Low
+2828,0.0,Very High,Very Low
+2829,4.0,Very High,Low
+2830,52.0,High,High
+2831,0.0,Very High,Very Low
+2832,52.0,Medium,High
+2833,4.0,Low,Low
+2834,12.0,Medium,Medium
+2835,52.0,Medium,High
+2836,0.0,Very High,Very Low
+2837,0.0,Medium,Very Low
+2838,52.0,Very High,High
+2839,52.0,Medium,High
+2840,12.0,High,Medium
+2841,0.0,Medium,Very Low
+2842,52.0,Low,High
+2843,4.0,Very High,Low
+2844,52.0,Low,High
+2845,0.0,High,Very Low
+2846,0.0,High,Very Low
+2847,0.0,Low,Very Low
+2848,0.0,Low,Very Low
+2849,4.0,High,Low
+2850,0.0,Low,Very Low
+2851,0.0,High,Very Low
+2852,12.0,High,Medium
+2853,52.0,High,High
+2854,52.0,Medium,High
+2855,12.0,Low,Medium
+2856,4.0,Very High,Low
+2857,12.0,Medium,Medium
+2858,12.0,Very High,Medium
+2859,12.0,Very High,Medium
+2860,0.0,Low,Very Low
+2861,52.0,Low,High
+2862,12.0,Medium,Medium
+2863,0.0,High,Very Low
+2864,12.0,Medium,Medium
+2865,52.0,Medium,High
+2866,0.0,Very High,Very Low
+2867,0.0,High,Very Low
+2868,0.0,Medium,Very Low
+2869,0.0,Medium,Very Low
+2870,52.0,Medium,High
+2871,0.0,Low,Very Low
+2872,0.0,Medium,Very Low
+2873,0.0,Medium,Very Low
+2874,12.0,Medium,Medium
+2875,0.0,Low,Very Low
+2876,52.0,High,High
+2877,0.0,Very High,Very Low
+2878,12.0,Medium,Medium
+2879,0.0,Very High,Very Low
+2880,0.0,Medium,Very Low
+2881,4.0,High,Low
+2882,0.0,Very High,Very Low
+2883,0.0,Medium,Very Low
+2884,52.0,Medium,High
+2885,0.0,Medium,Very Low
+2886,0.0,Very High,Very Low
+2887,52.0,Low,High
+2888,0.0,Low,Very Low
+2889,4.0,Medium,Low
+2890,0.0,Medium,Very Low
+2891,12.0,Medium,Medium
+2892,12.0,High,Medium
+2893,12.0,Low,Medium
+2894,0.0,Low,Very Low
+2895,0.0,Low,Very Low
+2896,12.0,Very High,Medium
+2897,0.0,Very High,Very Low
+2898,0.0,Medium,Very Low
+2899,0.0,Low,Very Low
+2900,0.0,High,Very Low
+2901,0.0,High,Very Low
+2902,4.0,Medium,Low
+2903,0.0,Low,Very Low
+2904,0.0,Low,Very Low
+2905,12.0,Medium,Medium
+2906,0.0,Medium,Very Low
+2907,0.0,Low,Very Low
+2908,0.0,Very High,Very Low
+2909,0.0,Very High,Very Low
+2910,0.0,High,Very Low
+2911,12.0,Low,Medium
+2912,4.0,Low,Low
+2913,0.0,Low,Very Low
+2914,0.0,Very High,Very Low
+2915,0.0,High,Very Low
+2916,0.0,Low,Very Low
+2917,0.0,High,Very Low
+2918,0.0,Medium,Very Low
+2919,52.0,High,High
+2920,12.0,High,Medium
+2921,0.0,High,Very Low
+2922,0.0,Low,Very Low
+2923,4.0,High,Low
+2924,4.0,High,Low
+2925,0.0,High,Very Low
+2926,0.0,Very High,Very Low
+2927,52.0,Very High,High
+2928,0.0,Low,Very Low
+2929,52.0,High,High
+2930,0.0,Medium,Very Low
+2931,12.0,Medium,Medium
+2932,0.0,Low,Very Low
+2933,4.0,Very High,Low
+2934,12.0,Medium,Medium
+2935,4.0,Low,Low
+2936,52.0,Low,High
+2937,52.0,Low,High
+2938,52.0,Low,High
+2939,12.0,Medium,Medium
+2940,52.0,Medium,High
+2941,12.0,Very High,Medium
+2942,12.0,Very High,Medium
+2943,52.0,High,High
+2944,12.0,Medium,Medium
+2945,0.0,Very High,Very Low
+2946,0.0,Medium,Very Low
+2947,4.0,High,Low
+2948,0.0,High,Very Low
+2949,0.0,Very High,Very Low
+2950,0.0,Very High,Very Low
+2951,0.0,Very High,Very Low
+2952,52.0,Very High,High
+2953,12.0,Low,Medium
+2954,0.0,Very High,Very Low
+2955,0.0,Low,Very Low
+2956,0.0,High,Very Low
+2957,12.0,Very High,Medium
+2958,0.0,High,Very Low
+2959,12.0,Very High,Medium
+2960,4.0,Low,Low
+2961,52.0,Medium,High
+2962,0.0,Medium,Very Low
+2963,0.0,Medium,Very Low
+2964,52.0,Very High,High
+2965,0.0,Low,Very Low
+2966,0.0,Medium,Very Low
+2967,0.0,Medium,Very Low
+2968,0.0,Low,Very Low
+2969,0.0,Medium,Very Low
+2970,0.0,High,Very Low
+2971,0.0,High,Very Low
+2972,0.0,Very High,Very Low
+2973,0.0,Low,Very Low
+2974,0.0,High,Very Low
+2975,52.0,Very High,High
+2976,0.0,High,Very Low
+2977,0.0,Very High,Very Low
+2978,0.0,Medium,Very Low
+2979,0.0,Medium,Very Low
+2980,52.0,Very High,High
+2981,12.0,Very High,Medium
+2982,0.0,Low,Very Low
+2983,52.0,Medium,High
+2984,4.0,Medium,Low
+2985,0.0,Low,Very Low
+2986,0.0,Low,Very Low
+2987,12.0,Very High,Medium
+2988,12.0,Low,Medium
+2989,12.0,Medium,Medium
+2990,52.0,Low,High
+2991,12.0,Very High,Medium
+2992,0.0,High,Very Low
+2993,52.0,High,High
+2994,0.0,Low,Very Low
+2995,4.0,Very High,Low
+2996,0.0,Very High,Very Low
+2997,0.0,Very High,Very Low
+2998,0.0,Medium,Very Low
+2999,4.0,Medium,Low
+3000,12.0,Medium,Medium
+3001,52.0,High,High
+3002,4.0,Low,Low
+3003,4.0,Low,Low
+3004,0.0,Medium,Very Low
+3005,0.0,High,Very Low
+3006,52.0,High,High
+3007,0.0,Very High,Very Low
+3008,52.0,Medium,High
+3009,52.0,Very High,High
+3010,0.0,High,Very Low
+3011,0.0,Medium,Very Low
+3012,0.0,High,Very Low
+3013,0.0,High,Very Low
+3014,12.0,Medium,Medium
+3015,0.0,High,Very Low
+3016,0.0,Low,Very Low
+3017,4.0,Low,Low
+3018,0.0,High,Very Low
+3019,0.0,Medium,Very Low
+3020,0.0,Medium,Very Low
+3021,0.0,High,Very Low
+3022,4.0,High,Low
+3023,52.0,Low,High
+3024,4.0,Low,Low
+3025,0.0,Very High,Very Low
+3026,12.0,Medium,Medium
+3027,0.0,High,Very Low
+3028,4.0,Low,Low
+3029,0.0,Very High,Very Low
+3030,4.0,Very High,Low
+3031,52.0,Low,High
+3032,12.0,High,Medium
+3033,4.0,Medium,Low
+3034,52.0,Medium,High
+3035,4.0,Low,Low
+3036,0.0,High,Very Low
+3037,0.0,Medium,Very Low
+3038,0.0,Medium,Very Low
+3039,0.0,Low,Very Low
+3040,0.0,Medium,Very Low
+3041,0.0,Low,Very Low
+3042,12.0,High,Medium
+3043,0.0,Low,Very Low
+3044,12.0,Very High,Medium
+3045,4.0,High,Low
+3046,0.0,Low,Very Low
+3047,0.0,Medium,Very Low
+3048,0.0,High,Very Low
+3049,0.0,Very High,Very Low
+3050,0.0,Medium,Very Low
+3051,0.0,High,Very Low
+3052,0.0,High,Very Low
+3053,0.0,Low,Very Low
+3054,12.0,Very High,Medium
+3055,12.0,High,Medium
+3056,0.0,Low,Very Low
+3057,0.0,Medium,Very Low
+3058,52.0,Low,High
+3059,0.0,High,Very Low
+3060,4.0,High,Low
+3061,12.0,High,Medium
+3062,0.0,Medium,Very Low
+3063,12.0,Very High,Medium
+3064,0.0,Medium,Very Low
+3065,4.0,High,Low
+3066,0.0,Medium,Very Low
+3067,0.0,Medium,Very Low
+3068,52.0,Low,High
+3069,52.0,Medium,High
+3070,4.0,High,Low
+3071,0.0,Low,Very Low
+3072,12.0,Medium,Medium
+3073,4.0,Very High,Low
+3074,0.0,High,Very Low
+3075,0.0,Medium,Very Low
+3076,0.0,Very High,Very Low
+3077,0.0,Medium,Very Low
+3078,0.0,Very High,Very Low
+3079,0.0,Very High,Very Low
+3080,0.0,Low,Very Low
+3081,0.0,Medium,Very Low
+3082,52.0,Medium,High
+3083,0.0,Very High,Very Low
+3084,4.0,Low,Low
+3085,12.0,Low,Medium
+3086,0.0,Medium,Very Low
+3087,0.0,High,Very Low
+3088,12.0,Very High,Medium
+3089,4.0,High,Low
+3090,0.0,Low,Very Low
+3091,4.0,Low,Low
+3092,0.0,High,Very Low
+3093,0.0,Medium,Very Low
+3094,0.0,High,Very Low
+3095,52.0,Medium,High
+3096,0.0,Medium,Very Low
+3097,12.0,High,Medium
+3098,4.0,Low,Low
+3099,4.0,High,Low
+3100,0.0,Very High,Very Low
+3101,52.0,Very High,High
+3102,0.0,Very High,Very Low
+3103,0.0,Very High,Very Low
+3104,52.0,Low,High
+3105,0.0,Medium,Very Low
+3106,12.0,Low,Medium
+3107,0.0,Medium,Very Low
+3108,0.0,Low,Very Low
+3109,12.0,High,Medium
+3110,0.0,Very High,Very Low
+3111,0.0,Medium,Very Low
+3112,4.0,High,Low
+3113,0.0,Very High,Very Low
+3114,52.0,Very High,High
+3115,0.0,Medium,Very Low
+3116,0.0,Medium,Very Low
+3117,52.0,High,High
+3118,0.0,Medium,Very Low
+3119,4.0,Very High,Low
+3120,0.0,High,Very Low
+3121,0.0,High,Very Low
+3122,52.0,Low,High
+3123,0.0,Medium,Very Low
+3124,0.0,High,Very Low
+3125,0.0,Medium,Very Low
+3126,4.0,Low,Low
+3127,0.0,High,Very Low
+3128,0.0,Very High,Very Low
+3129,0.0,Low,Very Low
+3130,0.0,Low,Very Low
+3131,0.0,Low,Very Low
+3132,0.0,Medium,Very Low
+3133,4.0,Very High,Low
+3134,0.0,High,Very Low
+3135,52.0,High,High
+3136,0.0,Very High,Very Low
+3137,0.0,Low,Very Low
+3138,12.0,Medium,Medium
+3139,0.0,Very High,Very Low
+3140,52.0,Very High,High
+3141,52.0,Medium,High
+3142,0.0,Low,Very Low
+3143,4.0,Low,Low
+3144,4.0,Low,Low
+3145,4.0,High,Low
+3146,0.0,Low,Very Low
+3147,0.0,Very High,Very Low
+3148,52.0,Very High,High
+3149,52.0,Low,High
+3150,0.0,Medium,Very Low
+3151,0.0,Low,Very Low
+3152,4.0,High,Low
+3153,12.0,Very High,Medium
+3154,0.0,Very High,Very Low
+3155,4.0,Medium,Low
+3156,0.0,Very High,Very Low
+3157,12.0,Medium,Medium
+3158,0.0,Low,Very Low
+3159,12.0,High,Medium
+3160,4.0,Very High,Low
+3161,0.0,Very High,Very Low
+3162,12.0,High,Medium
+3163,4.0,Very High,Low
+3164,12.0,High,Medium
+3165,0.0,Low,Very Low
+3166,0.0,Very High,Very Low
+3167,0.0,High,Very Low
+3168,0.0,High,Very Low
+3169,0.0,Low,Very Low
+3170,52.0,Medium,High
+3171,0.0,Medium,Very Low
+3172,0.0,Low,Very Low
+3173,0.0,Medium,Very Low
+3174,0.0,Medium,Very Low
+3175,12.0,Medium,Medium
+3176,0.0,Medium,Very Low
+3177,12.0,Low,Medium
+3178,12.0,Medium,Medium
+3179,0.0,Low,Very Low
+3180,0.0,Very High,Very Low
+3181,52.0,Very High,High
+3182,0.0,Medium,Very Low
+3183,0.0,Very High,Very Low
+3184,0.0,Medium,Very Low
+3185,4.0,Medium,Low
+3186,0.0,High,Very Low
+3187,0.0,Very High,Very Low
+3188,52.0,High,High
+3189,12.0,Medium,Medium
+3190,0.0,Very High,Very Low
+3191,0.0,High,Very Low
+3192,0.0,High,Very Low
+3193,0.0,High,Very Low
+3194,0.0,Very High,Very Low
+3195,0.0,Medium,Very Low
+3196,4.0,Medium,Low
+3197,0.0,Medium,Very Low
+3198,0.0,High,Very Low
+3199,52.0,Very High,High
+3200,12.0,Medium,Medium
+3201,12.0,Low,Medium
+3202,12.0,Low,Medium
+3203,0.0,Low,Very Low
+3204,0.0,Low,Very Low
+3205,0.0,Very High,Very Low
+3206,0.0,Low,Very Low
+3207,12.0,Medium,Medium
+3208,0.0,Low,Very Low
+3209,52.0,Low,High
+3210,0.0,Low,Very Low
+3211,0.0,High,Very Low
+3212,12.0,High,Medium
+3213,52.0,Low,High
+3214,12.0,Medium,Medium
+3215,0.0,High,Very Low
+3216,0.0,Very High,Very Low
+3217,52.0,Very High,High
+3218,52.0,Medium,High
+3219,12.0,Low,Medium
+3220,52.0,Medium,High
+3221,12.0,Low,Medium
+3222,0.0,High,Very Low
+3223,4.0,Very High,Low
+3224,0.0,High,Very Low
+3225,12.0,High,Medium
+3226,52.0,Very High,High
+3227,0.0,High,Very Low
+3228,4.0,High,Low
+3229,0.0,Very High,Very Low
+3230,12.0,High,Medium
+3231,0.0,Medium,Very Low
+3232,0.0,Very High,Very Low
+3233,12.0,Low,Medium
+3234,0.0,High,Very Low
+3235,4.0,Very High,Low
+3236,12.0,High,Medium
+3237,12.0,Very High,Medium
+3238,52.0,Medium,High
+3239,4.0,Very High,Low
+3240,12.0,Low,Medium
+3241,12.0,Low,Medium
+3242,4.0,Medium,Low
+3243,52.0,High,High
+3244,0.0,Very High,Very Low
+3245,0.0,High,Very Low
+3246,52.0,High,High
+3247,12.0,Very High,Medium
+3248,0.0,Very High,Very Low
+3249,4.0,High,Low
+3250,4.0,Very High,Low
+3251,52.0,Very High,High
+3252,4.0,Low,Low
+3253,0.0,Low,Very Low
+3254,0.0,Medium,Very Low
+3255,0.0,Low,Very Low
+3256,12.0,Medium,Medium
+3257,0.0,Low,Very Low
+3258,0.0,Very High,Very Low
+3259,0.0,Medium,Very Low
+3260,0.0,Very High,Very Low
+3261,0.0,Low,Very Low
+3262,52.0,Medium,High
+3263,0.0,Low,Very Low
+3264,0.0,High,Very Low
+3265,0.0,Medium,Very Low
+3266,0.0,Very High,Very Low
+3267,52.0,High,High
+3268,4.0,Medium,Low
+3269,0.0,Very High,Very Low
+3270,12.0,Medium,Medium
+3271,0.0,Low,Very Low
+3272,52.0,Medium,High
+3273,4.0,Very High,Low
+3274,0.0,Medium,Very Low
+3275,0.0,Low,Very Low
+3276,52.0,Very High,High
+3277,0.0,Very High,Very Low
+3278,12.0,Very High,Medium
+3279,52.0,High,High
+3280,0.0,Medium,Very Low
+3281,12.0,Medium,Medium
+3282,0.0,High,Very Low
+3283,12.0,Very High,Medium
+3284,0.0,Low,Very Low
+3285,0.0,High,Very Low
+3286,52.0,Low,High
+3287,0.0,High,Very Low
+3288,52.0,High,High
+3289,0.0,High,Very Low
+3290,0.0,Medium,Very Low
+3291,12.0,Very High,Medium
+3292,12.0,Medium,Medium
+3293,0.0,Low,Very Low
+3294,0.0,Very High,Very Low
+3295,0.0,Medium,Very Low
+3296,52.0,Low,High
+3297,4.0,Low,Low
+3298,12.0,Very High,Medium
+3299,0.0,High,Very Low
+3300,12.0,Low,Medium
+3301,0.0,High,Very Low
+3302,0.0,Medium,Very Low
+3303,0.0,Very High,Very Low
+3304,0.0,Medium,Very Low
+3305,0.0,High,Very Low
+3306,0.0,Medium,Very Low
+3307,0.0,Low,Very Low
+3308,12.0,Low,Medium
+3309,12.0,High,Medium
+3310,12.0,Medium,Medium
+3311,0.0,Low,Very Low
+3312,0.0,Medium,Very Low
+3313,4.0,High,Low
+3314,12.0,Low,Medium
+3315,4.0,Very High,Low
+3316,0.0,High,Very Low
+3317,0.0,Medium,Very Low
+3318,4.0,High,Low
+3319,12.0,Medium,Medium
+3320,0.0,Low,Very Low
+3321,0.0,Medium,Very Low
+3322,0.0,Very High,Very Low
+3323,52.0,Very High,High
+3324,12.0,High,Medium
+3325,52.0,Low,High
+3326,12.0,Very High,Medium
+3327,0.0,Very High,Very Low
+3328,4.0,High,Low
+3329,0.0,Low,Very Low
+3330,0.0,Medium,Very Low
+3331,4.0,Very High,Low
+3332,4.0,Medium,Low
+3333,0.0,Low,Very Low
+3334,12.0,Low,Medium
+3335,0.0,Low,Very Low
+3336,4.0,Very High,Low
+3337,0.0,Medium,Very Low
+3338,0.0,Low,Very Low
+3339,12.0,Very High,Medium
+3340,0.0,Very High,Very Low
+3341,0.0,Low,Very Low
+3342,12.0,Medium,Medium
+3343,52.0,High,High
+3344,0.0,Low,Very Low
+3345,0.0,Medium,Very Low
+3346,0.0,Very High,Very Low
+3347,4.0,Very High,Low
+3348,0.0,High,Very Low
+3349,0.0,High,Very Low
+3350,4.0,High,Low
+3351,0.0,Low,Very Low
+3352,0.0,Medium,Very Low
+3353,0.0,Very High,Very Low
+3354,0.0,High,Very Low
+3355,52.0,Medium,High
+3356,0.0,Low,Very Low
+3357,0.0,Medium,Very Low
+3358,12.0,High,Medium
+3359,0.0,Medium,Very Low
+3360,12.0,High,Medium
+3361,0.0,High,Very Low
+3362,0.0,Low,Very Low
+3363,0.0,High,Very Low
+3364,0.0,Low,Very Low
+3365,12.0,Low,Medium
+3366,0.0,Medium,Very Low
+3367,4.0,High,Low
+3368,0.0,Medium,Very Low
+3369,0.0,Low,Very Low
+3370,12.0,Medium,Medium
+3371,0.0,Low,Very Low
+3372,0.0,Very High,Very Low
+3373,0.0,Low,Very Low
+3374,0.0,Medium,Very Low
+3375,0.0,Medium,Very Low
+3376,0.0,Very High,Very Low
+3377,4.0,Medium,Low
+3378,0.0,Low,Very Low
+3379,4.0,High,Low
+3380,52.0,Medium,High
+3381,0.0,Medium,Very Low
+3382,4.0,High,Low
+3383,52.0,Low,High
+3384,0.0,Medium,Very Low
+3385,4.0,Low,Low
+3386,0.0,Very High,Very Low
+3387,4.0,High,Low
+3388,0.0,High,Very Low
+3389,52.0,High,High
+3390,0.0,Medium,Very Low
+3391,0.0,High,Very Low
+3392,0.0,Medium,Very Low
+3393,0.0,High,Very Low
+3394,12.0,Very High,Medium
+3395,0.0,Very High,Very Low
+3396,0.0,Medium,Very Low
+3397,4.0,Low,Low
+3398,0.0,Low,Very Low
+3399,0.0,Medium,Very Low
+3400,0.0,Medium,Very Low
+3401,0.0,Medium,Very Low
+3402,52.0,High,High
+3403,0.0,High,Very Low
+3404,0.0,High,Very Low
+3405,0.0,Low,Very Low
+3406,0.0,Very High,Very Low
+3407,4.0,High,Low
+3408,4.0,Medium,Low
+3409,0.0,High,Very Low
+3410,0.0,Very High,Very Low
+3411,0.0,High,Very Low
+3412,52.0,Medium,High
+3413,4.0,Very High,Low
+3414,0.0,Very High,Very Low
+3415,4.0,Very High,Low
+3416,0.0,High,Very Low
+3417,0.0,Medium,Very Low
+3418,0.0,Low,Very Low
+3419,0.0,Low,Very Low
+3420,0.0,Low,Very Low
+3421,0.0,Medium,Very Low
+3422,52.0,Low,High
+3423,12.0,Very High,Medium
+3424,0.0,High,Very Low
+3425,12.0,High,Medium
+3426,0.0,Medium,Very Low
+3427,0.0,Low,Very Low
+3428,0.0,Low,Very Low
+3429,12.0,High,Medium
+3430,52.0,Very High,High
+3431,0.0,High,Very Low
+3432,0.0,Medium,Very Low
+3433,0.0,Medium,Very Low
+3434,0.0,Very High,Very Low
+3435,0.0,High,Very Low
+3436,0.0,Very High,Very Low
+3437,12.0,Very High,Medium
+3438,0.0,High,Very Low
+3439,12.0,High,Medium
+3440,4.0,Very High,Low
+3441,52.0,High,High
+3442,0.0,Very High,Very Low
+3443,52.0,High,High
+3444,0.0,Low,Very Low
+3445,0.0,High,Very Low
+3446,0.0,Medium,Very Low
+3447,52.0,Medium,High
+3448,0.0,Medium,Very Low
+3449,0.0,Low,Very Low
+3450,12.0,Low,Medium
+3451,12.0,High,Medium
+3452,0.0,High,Very Low
+3453,0.0,Low,Very Low
+3454,0.0,Medium,Very Low
+3455,0.0,High,Very Low
+3456,0.0,Very High,Very Low
+3457,12.0,Medium,Medium
+3458,0.0,Very High,Very Low
+3459,4.0,Low,Low
+3460,0.0,Low,Very Low
+3461,0.0,High,Very Low
+3462,4.0,Low,Low
+3463,0.0,High,Very Low
+3464,0.0,Low,Very Low
+3465,0.0,Medium,Very Low
+3466,52.0,Medium,High
+3467,0.0,Medium,Very Low
+3468,0.0,Medium,Very Low
+3469,4.0,Very High,Low
+3470,0.0,Very High,Very Low
+3471,0.0,High,Very Low
+3472,0.0,High,Very Low
+3473,52.0,Medium,High
+3474,52.0,Medium,High
+3475,12.0,Very High,Medium
+3476,4.0,Very High,Low
+3477,52.0,Very High,High
+3478,0.0,Very High,Very Low
+3479,4.0,Medium,Low
+3480,12.0,Medium,Medium
+3481,12.0,High,Medium
+3482,0.0,High,Very Low
+3483,52.0,High,High
+3484,0.0,Low,Very Low
+3485,0.0,High,Very Low
+3486,0.0,Low,Very Low
+3487,52.0,Very High,High
+3488,0.0,Low,Very Low
+3489,4.0,Low,Low
+3490,0.0,Low,Very Low
+3491,4.0,Very High,Low
+3492,12.0,Low,Medium
+3493,0.0,High,Very Low
+3494,52.0,Very High,High
+3495,4.0,Low,Low
+3496,52.0,Low,High
+3497,12.0,Low,Medium
+3498,0.0,Medium,Very Low
+3499,0.0,Low,Very Low
+3500,0.0,Low,Very Low
+3501,0.0,Medium,Very Low
+3502,52.0,Very High,High
+3503,4.0,High,Low
+3504,52.0,Very High,High
+3505,12.0,Medium,Medium
+3506,0.0,Medium,Very Low
+3507,0.0,Medium,Very Low
+3508,0.0,High,Very Low
+3509,52.0,Medium,High
+3510,0.0,Low,Very Low
+3511,12.0,Very High,Medium
+3512,0.0,High,Very Low
+3513,4.0,Medium,Low
+3514,0.0,High,Very Low
+3515,12.0,Medium,Medium
+3516,0.0,High,Very Low
+3517,0.0,Medium,Very Low
+3518,0.0,High,Very Low
+3519,4.0,Very High,Low
+3520,0.0,High,Very Low
+3521,12.0,High,Medium
+3522,52.0,Medium,High
+3523,4.0,Very High,Low
+3524,0.0,Medium,Very Low
+3525,12.0,High,Medium
+3526,0.0,Low,Very Low
+3527,0.0,Very High,Very Low
+3528,52.0,Very High,High
+3529,0.0,High,Very Low
+3530,52.0,Low,High
+3531,52.0,Medium,High
+3532,4.0,Medium,Low
+3533,0.0,High,Very Low
+3534,0.0,Very High,Very Low
+3535,52.0,Very High,High
+3536,12.0,Medium,Medium
+3537,12.0,Low,Medium
+3538,0.0,Very High,Very Low
+3539,12.0,High,Medium
+3540,0.0,Medium,Very Low
+3541,52.0,Very High,High
+3542,0.0,High,Very Low
+3543,52.0,Low,High
+3544,0.0,Very High,Very Low
+3545,0.0,Medium,Very Low
+3546,0.0,Low,Very Low
+3547,0.0,High,Very Low
+3548,0.0,Low,Very Low
+3549,0.0,Low,Very Low
+3550,0.0,Low,Very Low
+3551,52.0,High,High
+3552,52.0,Low,High
+3553,4.0,High,Low
+3554,52.0,Very High,High
+3555,0.0,Medium,Very Low
+3556,4.0,Low,Low
+3557,0.0,Very High,Very Low
+3558,0.0,Low,Very Low
+3559,4.0,Very High,Low
+3560,0.0,Low,Very Low
+3561,0.0,Very High,Very Low
+3562,0.0,Low,Very Low
+3563,52.0,Low,High
+3564,0.0,Very High,Very Low
+3565,0.0,Low,Very Low
+3566,12.0,Medium,Medium
+3567,12.0,Very High,Medium
+3568,12.0,Medium,Medium
+3569,4.0,High,Low
+3570,0.0,Very High,Very Low
+3571,0.0,Very High,Very Low
+3572,0.0,Low,Very Low
+3573,12.0,Low,Medium
+3574,12.0,High,Medium
+3575,4.0,High,Low
+3576,0.0,Very High,Very Low
+3577,0.0,Low,Very Low
+3578,52.0,Low,High
+3579,4.0,Low,Low
+3580,0.0,High,Very Low
+3581,0.0,Very High,Very Low
+3582,52.0,Very High,High
+3583,0.0,Medium,Very Low
+3584,0.0,High,Very Low
+3585,12.0,Medium,Medium
+3586,0.0,Medium,Very Low
+3587,0.0,Low,Very Low
+3588,0.0,Very High,Very Low
+3589,0.0,Medium,Very Low
+3590,0.0,High,Very Low
+3591,0.0,Very High,Very Low
+3592,4.0,Very High,Low
+3593,0.0,Very High,Very Low
+3594,12.0,High,Medium
+3595,4.0,Very High,Low
+3596,0.0,Medium,Very Low
+3597,0.0,Very High,Very Low
+3598,4.0,High,Low
+3599,0.0,High,Very Low
+3600,52.0,Low,High
+3601,0.0,High,Very Low
+3602,12.0,Medium,Medium
+3603,4.0,Low,Low
+3604,52.0,Medium,High
+3605,0.0,Very High,Very Low
+3606,0.0,Medium,Very Low
+3607,0.0,Very High,Very Low
+3608,0.0,Very High,Very Low
+3609,0.0,Medium,Very Low
+3610,12.0,Low,Medium
+3611,0.0,Very High,Very Low
+3612,0.0,Very High,Very Low
+3613,0.0,Low,Very Low
+3614,0.0,Low,Very Low
+3615,0.0,Low,Very Low
+3616,12.0,Low,Medium
+3617,0.0,Low,Very Low
+3618,12.0,Medium,Medium
+3619,0.0,High,Very Low
+3620,52.0,High,High
+3621,0.0,Very High,Very Low
+3622,0.0,Low,Very Low
+3623,0.0,Medium,Very Low
+3624,52.0,Very High,High
+3625,0.0,Very High,Very Low
+3626,52.0,Very High,High
+3627,4.0,Very High,Low
+3628,0.0,Medium,Very Low
+3629,12.0,Very High,Medium
+3630,0.0,Medium,Very Low
+3631,52.0,High,High
+3632,12.0,Medium,Medium
+3633,4.0,High,Low
+3634,0.0,Medium,Very Low
+3635,0.0,Low,Very Low
+3636,0.0,Low,Very Low
+3637,52.0,Low,High
+3638,0.0,High,Very Low
+3639,0.0,Low,Very Low
+3640,0.0,Medium,Very Low
+3641,12.0,Low,Medium
+3642,0.0,Medium,Very Low
+3643,0.0,High,Very Low
+3644,0.0,Very High,Very Low
+3645,52.0,Low,High
+3646,0.0,Very High,Very Low
+3647,0.0,High,Very Low
+3648,52.0,Medium,High
+3649,0.0,High,Very Low
+3650,0.0,Medium,Very Low
+3651,0.0,Medium,Very Low
+3652,0.0,Low,Very Low
+3653,12.0,Low,Medium
+3654,0.0,Low,Very Low
+3655,0.0,Very High,Very Low
+3656,0.0,Low,Very Low
+3657,12.0,High,Medium
+3658,0.0,Very High,Very Low
+3659,0.0,High,Very Low
+3660,0.0,High,Very Low
+3661,0.0,High,Very Low
+3662,0.0,Low,Very Low
+3663,52.0,High,High
+3664,52.0,Medium,High
+3665,0.0,High,Very Low
+3666,4.0,High,Low
+3667,0.0,Medium,Very Low
+3668,12.0,Medium,Medium
+3669,0.0,High,Very Low
+3670,4.0,Medium,Low
+3671,0.0,Medium,Very Low
+3672,4.0,High,Low
+3673,12.0,High,Medium
+3674,0.0,Low,Very Low
+3675,0.0,High,Very Low
+3676,12.0,High,Medium
+3677,12.0,Very High,Medium
+3678,0.0,Low,Very Low
+3679,0.0,Medium,Very Low
+3680,0.0,Very High,Very Low
+3681,4.0,Low,Low
+3682,12.0,High,Medium
+3683,0.0,Medium,Very Low
+3684,0.0,High,Very Low
+3685,0.0,Very High,Very Low
+3686,0.0,Medium,Very Low
+3687,0.0,High,Very Low
+3688,0.0,Medium,Very Low
+3689,12.0,Very High,Medium
+3690,4.0,Low,Low
+3691,0.0,Low,Very Low
+3692,52.0,Low,High
+3693,0.0,Low,Very Low
+3694,52.0,Medium,High
+3695,0.0,Medium,Very Low
+3696,0.0,Low,Very Low
+3697,0.0,Medium,Very Low
+3698,52.0,High,High
+3699,0.0,Medium,Very Low
+3700,52.0,Medium,High
+3701,0.0,Very High,Very Low
+3702,0.0,High,Very Low
+3703,52.0,High,High
+3704,0.0,Very High,Very Low
+3705,4.0,High,Low
+3706,0.0,High,Very Low
+3707,0.0,Medium,Very Low
+3708,52.0,High,High
+3709,12.0,Very High,Medium
+3710,4.0,Medium,Low
+3711,0.0,Medium,Very Low
+3712,0.0,High,Very Low
+3713,4.0,High,Low
+3714,0.0,Very High,Very Low
+3715,52.0,Low,High
+3716,12.0,Low,Medium
+3717,0.0,Medium,Very Low
+3718,0.0,Very High,Very Low
+3719,0.0,Medium,Very Low
+3720,0.0,Very High,Very Low
+3721,4.0,Medium,Low
+3722,0.0,Medium,Very Low
+3723,0.0,Low,Very Low
+3724,12.0,Low,Medium
+3725,0.0,High,Very Low
+3726,0.0,Very High,Very Low
+3727,0.0,Very High,Very Low
+3728,0.0,Very High,Very Low
+3729,0.0,Low,Very Low
+3730,4.0,Very High,Low
+3731,0.0,High,Very Low
+3732,4.0,High,Low
+3733,0.0,Very High,Very Low
+3734,0.0,Medium,Very Low
+3735,0.0,Very High,Very Low
+3736,0.0,Medium,Very Low
+3737,0.0,Medium,Very Low
+3738,0.0,Low,Very Low
+3739,0.0,Medium,Very Low
+3740,52.0,Low,High
+3741,0.0,Very High,Very Low
+3742,0.0,Very High,Very Low
+3743,0.0,High,Very Low
+3744,4.0,Low,Low
+3745,0.0,Medium,Very Low
+3746,12.0,Medium,Medium
+3747,12.0,Very High,Medium
+3748,0.0,Medium,Very Low
+3749,0.0,Low,Very Low
+3750,0.0,Very High,Very Low
+3751,12.0,Very High,Medium
+3752,0.0,Very High,Very Low
+3753,52.0,High,High
+3754,0.0,Low,Very Low
+3755,0.0,Medium,Very Low
+3756,12.0,Very High,Medium
+3757,0.0,High,Very Low
+3758,52.0,Medium,High
+3759,4.0,Medium,Low
+3760,4.0,High,Low
+3761,52.0,High,High
+3762,0.0,Low,Very Low
+3763,0.0,Very High,Very Low
+3764,0.0,Low,Very Low
+3765,12.0,Low,Medium
+3766,0.0,Medium,Very Low
+3767,0.0,Medium,Very Low
+3768,0.0,Medium,Very Low
+3769,4.0,Low,Low
+3770,0.0,Very High,Very Low
+3771,52.0,Medium,High
+3772,0.0,Very High,Very Low
+3773,0.0,Low,Very Low
+3774,4.0,Medium,Low
+3775,0.0,Very High,Very Low
+3776,4.0,High,Low
+3777,0.0,Low,Very Low
+3778,52.0,High,High
+3779,0.0,Medium,Very Low
+3780,0.0,High,Very Low
+3781,4.0,Medium,Low
+3782,0.0,Very High,Very Low
+3783,0.0,Medium,Very Low
+3784,0.0,High,Very Low
+3785,0.0,Medium,Very Low
+3786,12.0,Very High,Medium
+3787,52.0,Medium,High
+3788,0.0,High,Very Low
+3789,12.0,High,Medium
+3790,0.0,High,Very Low
+3791,52.0,Medium,High
+3792,52.0,Medium,High
+3793,0.0,Medium,Very Low
+3794,0.0,Low,Very Low
+3795,52.0,Very High,High
+3796,52.0,Very High,High
+3797,4.0,High,Low
+3798,4.0,Medium,Low
+3799,0.0,High,Very Low
+3800,12.0,Low,Medium
+3801,0.0,Low,Very Low
+3802,0.0,Very High,Very Low
+3803,12.0,High,Medium
+3804,52.0,Medium,High
+3805,0.0,High,Very Low
+3806,4.0,Medium,Low
+3807,52.0,High,High
+3808,0.0,Low,Very Low
+3809,0.0,Low,Very Low
+3810,0.0,Low,Very Low
+3811,12.0,High,Medium
+3812,12.0,Low,Medium
+3813,0.0,High,Very Low
+3814,0.0,Very High,Very Low
+3815,0.0,Very High,Very Low
+3816,0.0,Medium,Very Low
+3817,0.0,Very High,Very Low
+3818,0.0,Very High,Very Low
+3819,12.0,Medium,Medium
+3820,4.0,Very High,Low
+3821,4.0,High,Low
+3822,0.0,Medium,Very Low
+3823,0.0,Medium,Very Low
+3824,52.0,Medium,High
+3825,4.0,Low,Low
+3826,0.0,Low,Very Low
+3827,0.0,Low,Very Low
+3828,0.0,High,Very Low
+3829,52.0,Very High,High
+3830,0.0,Low,Very Low
+3831,0.0,Low,Very Low
+3832,0.0,Very High,Very Low
+3833,52.0,Low,High
+3834,0.0,Very High,Very Low
+3835,4.0,Medium,Low
+3836,0.0,Medium,Very Low
+3837,0.0,Very High,Very Low
+3838,0.0,Very High,Very Low
+3839,0.0,Low,Very Low
+3840,4.0,Low,Low
+3841,0.0,Medium,Very Low
+3842,12.0,Medium,Medium
+3843,12.0,Very High,Medium
+3844,0.0,High,Very Low
+3845,4.0,Very High,Low
+3846,0.0,Medium,Very Low
+3847,0.0,Medium,Very Low
+3848,0.0,Low,Very Low
+3849,0.0,Medium,Very Low
+3850,0.0,High,Very Low
+3851,0.0,High,Very Low
+3852,0.0,Very High,Very Low
+3853,52.0,High,High
+3854,0.0,High,Very Low
+3855,0.0,Low,Very Low
+3856,4.0,High,Low
+3857,4.0,High,Low
+3858,0.0,Low,Very Low
+3859,4.0,High,Low
+3860,0.0,Very High,Very Low
+3861,0.0,High,Very Low
+3862,12.0,Medium,Medium
+3863,12.0,Medium,Medium
+3864,0.0,Low,Very Low
+3865,0.0,Very High,Very Low
+3866,0.0,Medium,Very Low
+3867,0.0,Low,Very Low
+3868,12.0,Low,Medium
+3869,0.0,Low,Very Low
+3870,0.0,High,Very Low
+3871,0.0,Medium,Very Low
+3872,0.0,Very High,Very Low
+3873,12.0,Very High,Medium
+3874,52.0,Medium,High
+3875,0.0,Medium,Very Low
+3876,0.0,Medium,Very Low
+3877,0.0,Very High,Very Low
+3878,12.0,Very High,Medium
+3879,0.0,Medium,Very Low
+3880,4.0,High,Low
+3881,12.0,Low,Medium
+3882,52.0,Low,High
+3883,0.0,Very High,Very Low
+3884,0.0,Low,Very Low
+3885,52.0,Low,High
+3886,4.0,High,Low
+3887,4.0,Very High,Low
+3888,4.0,Low,Low
+3889,0.0,High,Very Low
+3890,0.0,High,Very Low
+3891,0.0,High,Very Low
+3892,4.0,Low,Low
+3893,0.0,Very High,Very Low
+3894,0.0,High,Very Low
+3895,0.0,High,Very Low
+3896,52.0,Low,High
+3897,0.0,Medium,Very Low
+3898,4.0,Low,Low
+3899,52.0,High,High
+3900,4.0,High,Low

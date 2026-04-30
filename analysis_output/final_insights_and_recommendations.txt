@@ -1,0 +1,8 @@
+Key Findings:
+- Top categories by volume: Clothing (1737), Accessories (1240), Footwear (599), Outerwear (324)
+- Avg purchase amount: $59.76
+
+Recommendations:
+- Focus promotions on top categories to increase cross-sell.
+- Test targeted campaigns for age segments with high avg spend.
+- Prioritize shipping options that correlate with higher satisfaction.

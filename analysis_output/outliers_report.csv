@@ -1,0 +1,5 @@
+,n,iqr_outliers,z_outliers,iqr_bounds
+Age,2903,0,0,"(np.float64(-8.0), np.float64(96.0))"
+Purchase Amount (USD),3900,0,0,"(np.float64(-24.0), np.float64(144.0))"
+Review Rating,2685,0,0,"(np.float64(1.1499999999999997), np.float64(6.3500000000000005))"
+Previous Purchases,3900,0,0,"(np.float64(-24.5), np.float64(75.5))"

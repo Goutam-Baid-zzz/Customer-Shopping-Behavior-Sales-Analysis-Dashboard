@@ -1,0 +1,3 @@
+Male vs Female t-test: t=-0.8821, p=3.7779e-01
+ANOVA Subscription: F=0.1453, p=7.0310e-01
+Correlation Discount-Rating: r=-0.0431, p=2.5428e-02
