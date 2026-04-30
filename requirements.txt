@@ -1,0 +1,32 @@
+# ============================================================================
+# Customer Shopping Analytics Dashboard - Requirements
+# ============================================================================
+# Python version: 3.9+
+# Install with: pip install -r requirements.txt
+# ============================================================================
+
+# Core Data Science Libraries
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Visualization Libraries
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Web Framework
+streamlit>=1.28.0
+Pillow>=10.0.0
+
+# Optional: For advanced features
+altair>=5.0.0
+
+# Development & Deployment (optional)
+gunicorn>=21.0.0
+python-dotenv>=1.0.0
+
+# Notebook / automation
+jupyter>=1.0.0
+nbconvert>=7.2.0
+ipykernel>=6.0.0
