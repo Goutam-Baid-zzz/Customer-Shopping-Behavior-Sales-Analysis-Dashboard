@@ -94,27 +94,6 @@ streamlit run app.py
 2. Open with Power BI Desktop
 3. Use filters and visuals to explore
 
-## 🌐 Deployment
-
-### Streamlit Cloud (Recommended)
-```bash
-git push origin main
-```
-Then deploy via [share.streamlit.io](https://share.streamlit.io)
-
-### Docker
-```bash
-docker build -t shopping-dashboard .
-docker run -p 8501:8501 shopping-dashboard
-```
-
-### Local Server
-```bash
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-nohup streamlit run app.py &
-```
 
 ## 📊 Power BI Dashboard Preview
 
