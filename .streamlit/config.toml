@@ -20,7 +20,6 @@ base = "light"
 [client]
 # Show detailed error messages
 showErrorDetails = true
-showWarnings = true
 
 # Prevent toolbar autohide
 toolbarMode = "auto"
@@ -49,7 +48,6 @@ maxMessageSize = 200
 [deprecation]
 # Show deprecation warnings
 showPyplotGlobalUse = false
-showfileUploaderEncoding = false
 
 [runner]
 # Optimization
