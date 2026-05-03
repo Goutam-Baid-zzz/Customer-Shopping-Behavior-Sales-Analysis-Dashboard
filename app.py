@@ -1504,7 +1504,7 @@ def page_insights(df, analysis_data):
             ("◎", "Customer Targeting",
             f"Average customer age is {avg_age:.0f}. Build age-specific campaigns for the 25–40 bracket.", "#34d9b3"),
             ("⬡", "Logistics Enhancement",
-            f"<strong>{top_ship}</strong> is your top shipping choice. Negotiate bulk rates and offer fast-delivery perks.", "#f0b429"),
+            f"<strong>{top_ship}</strong> is your top shipping choice. Negotiate bulk rates. Offer fast-delivery perks.", "#f0b429"),
             ("◇", "Discount Strategy",
             f"Discount buyers spend <strong>{fmt_usd(disc_avg)}</strong> vs "
             f"<strong>{fmt_usd(nodisc_avg)}</strong> non-discount. Target low-frequency segments only.", "#a78bfa"),
