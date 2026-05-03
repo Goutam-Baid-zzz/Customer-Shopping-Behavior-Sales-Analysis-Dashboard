@@ -165,7 +165,7 @@ st.markdown("""
 
     /* ── KPI CARDS ────────────────────────────────────────────────────── */
     [data-testid="stHorizontalBlock"] > [data-testid="stColumn"] { display: flex; flex-direction: column; }
-
+    [data-testid="stHorizontalBlock"] > [data-testid="stColumn"] > div { flex: 1; display: flex; flex-direction: column; }
     .kpi-card {
         background: var(--ink-mid); border: 1px solid var(--wire);
         border-radius: var(--radius-lg); padding: 1.4rem 1.5rem;
@@ -201,6 +201,7 @@ st.markdown("""
         background: var(--ink-soft); border: 1px solid var(--wire);
         border-left: 3px solid var(--teal); border-radius: var(--radius-md);
         padding: 1.1rem 1.4rem; margin: 0.6rem 0; transition: var(--transition); position: relative;
+        height: calc(100% - 1.2rem); box-sizing: border-box;
     }
     .insight-panel:hover { border-left-color: var(--teal); background: var(--ink-edge); transform: translateX(4px); }
     .insight-panel.success { border-left-color: var(--teal); }
@@ -216,7 +217,7 @@ st.markdown("""
     .insight-panel-body strong { color: var(--snow); font-weight: 600; }
 
     /* ── RECOMMENDATION CARDS ────────────────────────────────────────── */
-    .rec-card { background: var(--ink-mid); border: 1px solid var(--wire); border-radius: var(--radius-lg); padding: 1.4rem 1.5rem; transition: var(--transition); height: 100%; }
+    .rec-card { background: var(--ink-mid); border: 1px solid var(--wire); border-radius: var(--radius-lg); padding: 1.4rem 1.5rem; transition: var(--transition); height: 100%; min-height: 180px; box-sizing: border-box; display: flex; flex-direction: column; justify-content: flex-start; }
     .rec-card:hover { border-color: var(--mist); background: var(--ink-soft); box-shadow: var(--shadow-card); transform: translateY(-4px); }
     .rec-icon  { font-size: 1.8rem; margin-bottom: 0.7rem; display: block; }
     .rec-title { font-family: 'Syne', sans-serif; font-size: 0.95rem; font-weight: 700; color: var(--white); margin-bottom: 0.5rem; letter-spacing: -0.01em; }
