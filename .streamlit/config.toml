@@ -31,7 +31,7 @@ level = "info"
 [server]
 # Server settings
 port = 8501
-headless = false
+headless = true
 
 # Enable CORS for development
 enableCORS = true
@@ -45,14 +45,6 @@ maxUploadSize = 200
 # Maximum message size (in MB)
 maxMessageSize = 200
 
-[deprecation]
-# Show deprecation warnings
-showPyplotGlobalUse = false
-
 [runner]
 # Optimization
 magicEnabled = true
-
-[webSocketConf]
-# WebSocket settings for smooth interactivity
-enabled = true
