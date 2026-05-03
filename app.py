@@ -1500,7 +1500,7 @@ def page_insights(df, analysis_data):
 
         recs = [
             ("◈", "Product Mix Optimization",
-             f"Focus on <strong>{top_cat}</strong> — your top category. Allocate 40% of inventory to top-3 performers.", "#4f8ef7"),
+             f"Focus on <strong>{top_cat}</strong> — your top category. Allocate 40% of inventory to top-3 performers, running category-specific promotions", "#4f8ef7"),
             ("◎", "Customer Targeting",
              f"Average customer age is {avg_age:.0f}. Build age-specific campaigns for the 25–40 bracket "
              "which shows the highest spend potential.", "#34d9b3"),
