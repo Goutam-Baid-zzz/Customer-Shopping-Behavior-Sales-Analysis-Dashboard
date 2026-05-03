@@ -1470,17 +1470,17 @@ def page_insights(df, analysis_data):
         with c2:
             insight("Subscription Rate",
                     f"<strong>{sub_pct:.1f}%</strong> of customers hold an active subscription. "
-                    "Growing this base is the fastest path to higher LTV.", "violet")
+                    "Growing this base is the fastest path to higher LTV. Target frequent buyers first.", "violet")
             insight("Promo Code Usage",
                     f"<strong>{promo_pct:.1f}%</strong> of purchases used a promo code. "
                     f"Discount buyers average <strong>{fmt_usd(disc_avg)}</strong> vs "
-                    f"<strong>{fmt_usd(nodisc_avg)}</strong> without.", "danger")
+                    f"<strong>{fmt_usd(nodisc_avg)}</strong> without. Review promo ROI regularly.", "danger")
             insight("Top Payment Method",
                     f"<strong>{top_pay}</strong> is the most used payment method. "
-                    "Optimising checkout for this method can reduce drop-off.", "warning")
+                    "Optimising checkout for this method can reduce drop-off and improve conversion rates.", "warning")
             insight("Top Shipping Type",
                     f"<strong>{top_ship}</strong> is the most selected shipping option. "
-                    "Consider negotiating bulk rates with that carrier.", "success")
+                    "Consider negotiating bulk rates with that carrier to protect margins at scale.", "success")
 
         if 'insights' in analysis_data and analysis_data['insights'].strip():
             divider()
@@ -1500,23 +1500,18 @@ def page_insights(df, analysis_data):
 
         recs = [
             ("◈", "Product Mix Optimization",
-             f"Focus on <strong>{top_cat}</strong> — your top category. Allocate 40% of inventory to top-3 performers, running category-specific promotions", "#4f8ef7"),
+            f"Focus on <strong>{top_cat}</strong> — your top category. Allocate inventory to top-3 performers.", "#4f8ef7"),
             ("◎", "Customer Targeting",
-             f"Average customer age is {avg_age:.0f}. Build age-specific campaigns for the 25–40 bracket "
-             "which shows the highest spend potential.", "#34d9b3"),
+            f"Average customer age is {avg_age:.0f}. Build age-specific campaigns for the 25–40 bracket.", "#34d9b3"),
             ("⬡", "Logistics Enhancement",
-             f"<strong>{top_ship}</strong> is your top shipping choice. Partner deeper with this carrier "
-             "to offer exclusive fast-delivery perks to subscribers.", "#f0b429"),
+            f"<strong>{top_ship}</strong> is your top shipping choice. Negotiate bulk rates and offer fast-delivery perks.", "#f0b429"),
             ("◇", "Discount Strategy",
-             f"Discount buyers spend <strong>{fmt_usd(disc_avg)}</strong> vs "
-             f"<strong>{fmt_usd(nodisc_avg)}</strong> for non-discount. "
-             "Test targeted discounts on low-frequency segments only.", "#a78bfa"),
+            f"Discount buyers spend <strong>{fmt_usd(disc_avg)}</strong> vs "
+            f"<strong>{fmt_usd(nodisc_avg)}</strong> non-discount. Target low-frequency segments only.", "#a78bfa"),
             ("⬡", "Subscription Growth",
-             f"Only <strong>{sub_pct:.1f}%</strong> are subscribers. A tiered loyalty programme could "
-             "convert high-frequency shoppers and raise customer LTV by 2–3×.", "#f75f7b"),
+            f"Only <strong>{sub_pct:.1f}%</strong> are subscribers. A tiered loyalty programme raises LTV by 2–3×.", "#f75f7b"),
             ("◈", "Geographic Expansion",
-             f"<strong>{top_loc}</strong> leads by volume. Identify the next 5 high-potential states "
-             "by mapping spend per capita against current market penetration.", "#34d9b3"),
+            f"<strong>{top_loc}</strong> leads by volume. Map spend per capita to find the next high-potential states.", "#34d9b3"),
         ]
 
         for row_start in range(0, len(recs), 3):
