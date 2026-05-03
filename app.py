@@ -1457,16 +1457,16 @@ def page_insights(df, analysis_data):
         with c1:
             insight("Top Category",
                     f"<strong>{top_cat}</strong> dominates with <strong>{top_cat_n:,}</strong> purchases "
-                    f"({top_cat_n/len(df)*100:.1f}% of all transactions).", "success")
+                    f"({top_cat_n/len(df)*100:.1f}% of all transactions). Prioritise inventory and promotions here.", "success")
             insight("Primary Market",
                     f"<strong>{top_loc}</strong> is the top-performing location, accounting for "
-                    f"<strong>{df['Location'].astype(str).value_counts().iloc[0]/len(df)*100:.1f}%</strong> of volume.", "warning")
+                    f"<strong>{df['Location'].astype(str).value_counts().iloc[0]/len(df)*100:.1f}%</strong> of volume. Focus regional campaigns here.", "warning")
             insight("Average Spend",
                     f"Customers spend an average of <strong>{fmt_usd(avg_pur)}</strong> per transaction. "
-                    f"Median is <strong>{fmt_usd(df['Purchase Amount (USD)'].median())}</strong>.", "danger")
+                    f"Median is <strong>{fmt_usd(df['Purchase Amount (USD)'].median())}</strong>. Upsell opportunities exist above this baseline.", "danger")
             insight("Satisfaction",
                     f"<strong>{sat_pct:.1f}%</strong> of customers rated their experience 4+ stars. "
-                    f"Average rating: <strong>{df['Review Rating'].mean():.2f}/5</strong>.", "violet")
+                    f"Average rating: <strong>{df['Review Rating'].mean():.2f}/5</strong>. Target detractors with follow-up outreach.", "violet")
         with c2:
             insight("Subscription Rate",
                     f"<strong>{sub_pct:.1f}%</strong> of customers hold an active subscription. "
@@ -1500,8 +1500,7 @@ def page_insights(df, analysis_data):
 
         recs = [
             ("◈", "Product Mix Optimization",
-             f"Focus on <strong>{top_cat}</strong> — your top category. Allocate 40% of inventory "
-             "to your top-3 performers and run category-specific promotions.", "#4f8ef7"),
+             f"Focus on <strong>{top_cat}</strong> — your top category. Allocate 40% of inventory to top-3 performers.", "#4f8ef7"),
             ("◎", "Customer Targeting",
              f"Average customer age is {avg_age:.0f}. Build age-specific campaigns for the 25–40 bracket "
              "which shows the highest spend potential.", "#34d9b3"),
